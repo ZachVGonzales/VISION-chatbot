@@ -1,3 +1,6 @@
-# VISION chatbot
+# VISION Assistant
 
-A repo for the chatbot being created for VISION
+A repo for the assistant being created for VISION
+(many diff functionalities)
+
+* first implement obj / task analysis (strength measure)
