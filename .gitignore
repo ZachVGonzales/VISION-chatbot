@@ -1,0 +1,10 @@
+# ignore these directories
+
+# ignore all database files
+*.db
+*.csv
+*.json
+*.OB
+
+# ignore these specific files
+objectives.txt
