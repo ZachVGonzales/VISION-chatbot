@@ -1,10 +1,14 @@
 # ignore these directories
+/models/
+/venv/
+/utils/__pycache__/
 
 # ignore all database files
 *.db
 *.csv
 *.json
 *.OB
+*.pyc
 
 # ignore these specific files
 objectives.txt
