@@ -1,13 +1,25 @@
 import sqlite3
 import pandas as pd # type: ignore
 import json
+import argparse
+
+
+def init_params():
+  parser = argparse.ArgumentParser(prog="init_obj_db.py", 
+                                   description="init the training database for objectives")
+  parser.add_argument("db_path", help="path to the training database")
+  parser.add_argument("data_path", help="path to csv data file")
+  return parser.parse_args()
 
 
 if __name__ == "__main__":
-  df = pd.read_csv("obj_analysis_init_data.csv")
+  params = init_params()
+  db_path = params.db_path
+  data_path = params.data_path
+  df = pd.read_csv(data_path)
 
   # Connect to SQLite database (or create it if it doesn't exist)
-  conn = sqlite3.connect('objectives.db')
+  conn = sqlite3.connect(db_path)
   cursor = conn.cursor()
 
   # Create a table based on the dataframe columns (adjust column types if necessary)

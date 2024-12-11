@@ -55,25 +55,29 @@ if __name__ == "__main__":
   cursor = conn.cursor()
 
   # create expanded table if does not already exist
+  cursor.execute("DROP TABLE IF EXISTS augmented_objectives")
   cursor.execute("CREATE TABLE IF NOT EXISTS augmented_objectives (id INTEGER PRIMARY KEY AUTOINCREMENT, input_objective TEXT NOT NULL, audience_score INTEGER NOT NULL, behavior_score INTEGER NOT NULL, condition_score INTEGER NOT NULL, degree_score INTEGER NOT NULL, new_objective TEXT NOT NULL)")
 
   # get original objectives 
   cursor.execute("SELECT * FROM objectives")
   rows = cursor.fetchall()
+  num_rows = len(rows)
 
-  for row in rows:
+  for i, row in enumerate(rows):
     in_obj = json.loads(row[1])
     new_obj = json.loads(row[6])
+    print(f"---- {i}/{num_rows} num rows ----")
 
     for _ in range(NUM_DUP):
       in_obj = translate(in_obj, model_forward, tokenizer_forward)
       in_obj = translate(in_obj, model_back, tokenizer_back)
       new_obj = translate(new_obj, model_forward, tokenizer_forward)
       new_obj = translate(new_obj, model_back, tokenizer_back)
+      #in_obj = rand_synonym_replacement(in_obj)
+      print("inserting new obj:", in_obj)
       cursor.execute("INSERT INTO augmented_objectives (input_objective, audience_score, behavior_score, condition_score, degree_score, new_objective) VALUES (?, ?, ?, ?, ?, ?)", (json.dumps(in_obj), row[2], row[3], row[4], row[5], json.dumps(new_obj)))
 
-      in_obj = rand_synonym_replacement(in_obj)
-      cursor.execute("INSERT INTO augmented_objectives (input_objective, audience_score, behavior_score, condition_score, degree_score, new_objective) VALUES (?, ?, ?, ?, ?, ?)", (json.dumps(in_obj), row[2], row[3], row[4], row[5], json.dumps(new_obj)))
+    conn.commit()
 
   conn.commit()
   conn.close()
