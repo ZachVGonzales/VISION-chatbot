@@ -25,17 +25,9 @@ def init_example_table(cursor: sqlite3.Cursor):
     input_obj, a, b ,c, d = row
     labels = [a, b, c, d]
     cursor.execute("INSERT INTO scoring_examples (text, labels) VALUES (?, ?)", (input_obj, json.dumps(labels)))
-
-  # get the imperfect examples from the augmented table
-  cursor.execute("SELECT input_objective, audience_score, behavior_score, condition_score, degree_score FROM augmented_objectives")
-  rows = cursor.fetchall()
-  for row in rows:
-    input_obj, a, b ,c, d = row
-    labels = [a, b, c, d]
-    cursor.execute("INSERT INTO scoring_examples (text, labels) VALUES (?, ?)", (input_obj, json.dumps(labels)))
   
   # get the perfect examples from the objectives table
-  cursor.execute("SELECT new_objective FROM objectives")
+  cursor.execute("SELECT DISTINCT new_objective FROM objectives")
   rows = cursor.fetchall()
   for row in rows:
     obj = row[0]
@@ -44,7 +36,7 @@ def init_example_table(cursor: sqlite3.Cursor):
 
 
 
-def train_model(model, dataloaders: dict[str:DataLoader], optimizer, criterion, device, patience=3, n_epochs=20):
+def train_model(model, dataloaders: dict[str:DataLoader], optimizer, criterion, patience=3, n_epochs=20):
   best_loss = float('inf')
   epochs_no_improve = 0
 
@@ -155,5 +147,5 @@ if __name__ == "__main__":
   optimizer = torch.optim.AdamW(model.parameters(), lr=5e-5)
 
   # now train on data
-  train_model(model, dataloaders, optimizer, criterion, DEVICE)
+  train_model(model, dataloaders, optimizer, criterion)
   quit()

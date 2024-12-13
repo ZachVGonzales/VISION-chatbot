@@ -2,6 +2,7 @@
 /models/
 /venv/
 /utils/__pycache__/
+/seq2seq/__pycache__/
 
 # ignore all database files
 *.db

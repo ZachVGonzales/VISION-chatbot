@@ -1,10 +1,10 @@
-
-from transformers import BertTokenizer, BertForSequenceClassification # type: ignore
+from transformers import T5Tokenizer, T5ForConditionalGeneration # type: ignore
 import torch
 import argparse
 
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+MODEL_ARCH = "google/t5-v1_1-base"
 
 
 def init_params():
@@ -14,14 +14,13 @@ def init_params():
   return parser.parse_args()
 
 
-def score(model, tokenizer, objective: str):
-  encoded_input = tokenizer(objective, return_tensors="pt")
-  encoded_input.to(DEVICE)
+def generate(model, tokenizer, objective: str):
+  encoded_inputs = tokenizer(objective, return_tensors="pt")
+  encoded_inputs.to(DEVICE)
   with torch.no_grad():
-    logits = model(**encoded_input).logits
-    logits = torch.sigmoid(logits)
-    logits = logits.squeeze(0)
-    print(logits)
+    seq_ids = model.generate(**encoded_inputs)
+    sequences = tokenizer.batch_decode(seq_ids)
+    print(sequences)
   return None
 
 
@@ -30,18 +29,18 @@ if __name__ == "__main__":
   model_path = params.model_path
 
   state_dict = torch.load(model_path, weights_only=True)
-  model = BertForSequenceClassification.from_pretrained("bert-base-uncased", num_labels = 4)
+  model = T5ForConditionalGeneration.from_pretrained(MODEL_ARCH)
   model.load_state_dict(state_dict)
   model.to(DEVICE)
   print("model loaded...")
 
-  tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
+  tokenizer = T5Tokenizer.from_pretrained(MODEL_ARCH, legacy=False)
 
   while True:
     objective = input("Enter Objective: ")
     if objective == "":
       break
 
-    score(model, tokenizer, objective)
+    generate(model, tokenizer, objective)
 
   quit()
