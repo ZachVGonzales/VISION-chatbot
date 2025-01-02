@@ -1,0 +1,1696 @@
+Inspect and Maintain Screw Pumps
+Inspect and Maintain Single and Multistage Vertical Volute Pumps
+Explain the theory of operation of a typical screw pump.
+Describe the components of a typical screw pump.
+Evaluate the operating conditions and identify problems in a typical screw pump
+Explain the theory of operation of a typical single and multistage vertical volute pump.
+Describe the components of a typical single and multistage vertical volute pump
+Evaluate the operating conditions and identify problems in a typical single and multistage vertical volute pump.
+Disassemble, inspect, and reassemble a typical screw pump.
+Disassemble, inspect, and reassemble a typical single and multistage vertical volute pump.
+Inspect and Maintain Multistage Horizontal Split Case Pumps
+Disassemble, inspect, and reassemble a typical multistage horizontal split case pump.
+Explain the purpose of a typical multistage horizontal split case pump.
+Explain the theory of operation of a typical multistage horizontal split case pump.
+Describe the components of a typical multistage horizontal split case pump.
+Evaluate the operating conditions and identify problems in a typical multistage horizontal split case pump.
+Inspect and Maintain Vacuum Pumps
+Explain the purpose of a typical vacuum pump.
+Explain the theory of operation of a typical vacuum pump.
+Describe the components of a typical vacuum pump.
+Evaluate the operating conditions and identify problems in a typical vacuum pump.
+Disassemble, inspect, and reassemble a typical vacuum pump.
+Explain the purpose of a typical axial piston pump.
+Explain the theory of operation of a typical axial piston pump.
+Describe the components of a typical axial piston pump.
+Evaluate the operating conditions and identify problems in a typical axial piston pump.
+Inspect and Maintain Controlled Volume Pumps
+Explain the purpose of a typical controlled volume pump.
+Explain the theory of operation of a typical controlled volume pump.
+Describe the components of a typical controlled volume pump.
+Evaluate the operating conditions and identify problems in a typical controlled volume pump.
+Disassemble, inspect, and reassemble a typical controlled volume pump.
+Explain the purpose of a single and multistage Vertical Volute Pumps
+Inspect and Maintain Vane Pumps
+Inspect and Maintain Single Stage Centrifugal Pumps
+Inspect and Maintain Reciprocating Pumps
+Maintain Mechanical Seals
+Inspect and Maintain Pump Couplings.
+ the student will be able to maintain packing to an acceptable working condition, in accordance with the Station/Vendor procedures.Maintain Pump Packing
+Align Pumps Manually
+ the student will be able to explain the theory of operation of a typical vane pump from memory.
+ the student will be able to describe the components of a typical vane pump from memory.
+ the student will be able to evaluate the operational symptom and identify the problems in a typical vane pump from memory.
+Given a mockup the student will be able to disassemble, inspect, and reassemble a typical vane pump without error.
+ the student will be able to explain the theory of operation of a typical single stage centrifugal pump from memory.
+ the student will be able to describe the components of a typical single stage centrifugal pump from memory.
+ the student will be able to evaluate the operational symptom and identify the problems in a typical single stage centrifugal pump from memory.
+Given C MP 702E2 or VTM MP-VTM-000-25203-883-001, Ball Valve Maintenance, disassemble, inspect, and reassemble a typical ball valve without error.
+ the student will be able to explain the theory of operation of a typical reciprocating pump from memory.
+ the student will be able to describe the components of a typical reciprocating pump from memory.
+ the student will be able to evaluate the operational symptom and identify the problems in a typical reciprocating pump from memory.
+Given a mockup the student will be able to disassemble, inspect, and reassemble a typical reciprocating pump without error.
+Given , inspect and maintain globe valves in accordance with procedure acceptance criteria, correctly.
+Given , inspect and maintain gate valves in accordance with procedure acceptance criteria, correctly.
+Given , inspect and maintain check valves in accordance with procedure acceptance criteria, correctly.
+Given , inspect and maintain diaphragm valves in accordance with procedure acceptance criteria, correctly.
+Given , inspect and maintain plug valves in accordance with procedure acceptance criteria, correctly.
+Given , inspect and maintain ball valves in accordance with procedure acceptance criteria, correctly.
+Given , inspect and maintain butterfly valves in accordance with procedure acceptance criteria, correctly.
+Maintain Valve Packing
+Inspect and Maintain Safety/Relief Valves
+ the student will be able to explain the purpose of a typical centrifugal pump from memeory.
+ the student will be able to explain the purpose of a typical reciprocating pump from memory.
+ the student will be able to explain the purpose of a typical vane pump from memory.
+ the student will be able to explain the theory of operation of a typical mechanical seal from memory.
+ the student will be able to describe the components of a typical mechanical seal from memory.
+ the student will be able to evaluate the operational symptom and identify the problems in a typical mechanical seal from memory.
+Given a mockup the student will be able to disassemble, inspect, and reassemble a typical mechanical seal without error.
+ the student will be able to explain the purpose of a typical mechanical seal from memory.
+ the student will be able to describe the types of mechanical seals from memory.
+ the student will be to explain the purpose of a typical rigid drive coupling and flexible drive coupling from memory.
+ the student will be to describe the types of rigid drive couplings and flexible couplings from memory.
+ the student will be to explain the theory of operation of a typical rigid drive coupling and flexible coupling from memory.
+ the student will be to describe the components of a typical rigid drive coupling and flexible coupling from memory.
+ the student will be to evaluate the operational symptom and identify the problems in a typical rigid drive coupling from memory.
+Given a mockup the student will be to disassemble, inspect, and reassemble a typical rigid drive coupling without error.
+Given a mockup the student will be to disassemble, inspect, and reassemble a typical flexible drive coupling without error.
+ the student will be able to explain the purpose of performing alignments from memory.
+ the student will be able to explain the different types of misalignment from memory.
+Given a mockup the student will be able to perform an alignment on a typical pump and motor without error.
+ the student will be able to describe the purpose of pump packing from memory.
+ the student will be able to explain the theory of operation of pump packing from memory.
+ the student will be able to describe the components of pump packing from memory.
+ the student will be ablr to evaluate the operational symptom and identify the problems in pump packing from memory.
+Given packing and a mockup the student will be able to disassemble, inspect, and reassemble a packed pump.
+Inspect and Maintain Mechanical Snubbers
+From memory, explain the purpose of a ball valve correctly.
+Using , describe the parts of a typical ball valve correctly.
+Using , explain the theory of operation of a typical ball valve correctly.
+From memory, state the advantages and disadvantages of a ball valve without error.
+Using , identify the different sealing points on a ball valve without error.
+From memory, explain the purpose of a butterfly valve correctly.
+From memory, state the advantages and disadvantages of a butterfly valve without error.
+Using a , explain the theory of operation of a typical butterfly valve successfully.
+Using , describe the parts of a typical butterfly valve correctly.
+Using , identify the different sealing points on a butterfly valve without error.
+Given C MP 702E1, Standard Butterfly Valves, disassemble, inspect, and reassemble a typical butterfly valve without error.
+From memory, explain the purpose of a plug valve correctly.
+From memory, state the advantages and disadvantages of a plug valve without error.
+Using , explain the theory of operation of a typical plug valve successfully.
+Given a drawing, describe the parts of a typical plug valve correctly.
+Using , identify the different sealing points on a plug valve without error.
+Given MP 3764JA, Tuffline Valve Maintenance, disassemble, inspect, and reassemble a typical plug valve without error.
+From memory, explain the purpose of a diaphragm valve correctly.
+From memory, state the advantages and disadvantages of a diaphragm valve without error.
+Using a , explain the theory of operation of a typical diaphragm valve successfully.
+Given , describe the parts of a typical diaphragm valve correctly.
+Using , identify the different sealing points on a diaphragm valve without error.
+Given C MP 703A, Manually Operated Grinnell Diaphragm Valve Maintenance, disassemble, inspect, and reassemble a typical diaphragm valve without error.
+From memory,explain the purpose of a check valve correctly.
+From memory, state the advantages and disadvantages of a check valve without error.
+Using a , explain the theory of operation of a typical check valve successfully.
+Given , describe the parts of a typical check valve correectly.
+Using , identify the different sealing points on a check valve without error.
+Given MP 2702C1 Standard Check Valve, disassemble, inspect, and reassemble a typical check valve without error.
+From memory, explain the purpose of a gate valve correctly.
+From memory, state the advantages and disadvantages of a gate valve without error.
+Using a , explain the theory of operation of a typical gate valve successfully.
+Given , describe the parts of a typical gate valve correctly.
+Using , identify the different sealing points on a gate valve without error.
+Given  Repair, disassemble, inspect, and reassemble a typical gate valve without error.
+From memory, explain the purpose of a globe valve correctly.
+From memory, state the advantages and disadvantages of a globe valve without error.
+Using a , explain the theory of operation of a typical globe valve successfully.
+Given , describe the parts of a typical globe valve correctly.
+Using a drawing or copmponent, identify the different sealing points on a globe valve without error.
+Given  Repair, disassemble, inspect, and reassemble a typical globe valve without error.
+Explain the purpose of valve packing.
+State the advantages and disadvantages of different types of valve packing.
+Explain the theory of operation of valve packing.
+Describe the parts of a valve packing system.
+Identify the different sealing points of valve packing.
+Disassemble, inspect, and reassemble a typical valve packing system.
+Disassemble, inspect, and reassemble a typical safety/relief valve.
+Inspect and Maintain Reciprocating Type Air Compressor
+Define the purpose of a piston type air compressor.
+Identify the major parts of piston type air compressor.
+From memory, the student shall be able to identify reciprocating type air compressor inspection requirements including methods and criteria in accordance with station procedures.
+Given , the student shall be able to disassemble, inspect, and reassemble a typical reciprocating type air compressor in accordance with station procedures.
+Given , the student shall analyze performance issues associated with air compressors including methods for resolution in accordance with industry standards.
+Perform Routine Rigging Lifts (Rigger Level 1)
+Perform Heavy Rigging Evolutions (Rigger Level 2)
+Inspect and Maintain Rigging Equipment
+Operate Unit 1 Reactor Building Crane
+Operate Unit 1 Turbine Building Crane
+Operate Unit 2 Polar Crane
+Operate Unit 2 Cask Crane
+Operate Unit 2 Turbine Building Crane
+Operate Unit 3 Polar Crane
+Operate Unit 3 Cask Crane
+Operate Pendant Operated Cranes
+Operate Caterpillar 420E Loader-Backhoe
+Operate Caterpillar Wheel Loader
+Operate Trojan 1900 Wheel loader
+Operate John Deere 210 Loader-Backhoe
+Inspect and Maintain Basic Refrigeration Equipment
+Inspect and Maintain Centrifugal Air Conditioning Equipment (Chillers)
+Operate and Maintain Refrigerant/Recycle Equipment
+Given , maintain pneumatic control valves in accordance with procedure or V.T.M acceptance criteria without error.
+Inspect and Maintain AOV's using Diagnostic Equipment (FlowScan)
+Inspect and Maintain Limitorque Operators
+Install Quick Stem Sensors (QSS)
+During classroom instruction, trainees shall discuss the purpose and process of leak sealing IAW MA-AA-MCM-ILS-101 Injection-Type Leak Sealing.
+Given a mockup the student will be able to disassemble, inspect, and reassemble a typical single stage centrifugal pump without error.
+ the student will be able to calculate required moves to align equipment from memory.
+ the student will be able to explain the factors that affect accurate pump shaft alignment from memory.
+During , students shall describe the different methods and applications of leak sealing in accordance with MA-AA-MCM-ILS-101 Injection Type Leak Sealing.
+During , students shall identify the appropriate use of insert and peripheral clamps in accordance with MA-AA-MCM-ILS-101 Injection Type Leak Sealing.
+During classroom instruction, students shall describe the method by which a perimeter seal enclosure retains sealing compound in accordance with MA-AA-MCM-ILS-101 Injection Type Leak Sealing.
+During classroom instruction, students shall identify the purpose of a strongback in accordance with MA-AA-MCM-ILS-101 Injection Type Leak Sealing.
+During classroom instruction, students shall identify the conditions under which a wire wrap can be used to retain sealing compound in accordance with MA-AA-MCM-ILS-101 Injection Type Leak Sealing.
+During classroom instruction, students shall explain how to minimize and/or prevent extruding sealant into the system in accordance with MA-AA-MCM-ILS-101 Injection Type Leak Sealing.
+During classroom instruction, students shall describe the purpose of leak sealing in accordance with MA-AA-MCM-ILS-101 Injection Type Leak Sealing.
+Explain the theory of operation of a piston type air compressor.
+Rev. 1; As a result of student feedback and CRC direction, present a leaning opportunity review new BDB equipment, storage locations and primary piping connections in the plant. 
+ 
+Rev. 0; Upon completion of this training session, the student will have a basic understanding of the Mechanics role in supporting Security and Operations during a Beyond Design Basis Event
+Rev. 1; During the course of the walk down, identify available BDB FLEX Equipment at Millstone Station
+Rev. 0Upon completion of this training, the student will understand available BDB FLEX equipment
+Rev. 1; During the course of the walk down, identify available storage locations for BDB FLEX equipment at Millstone Station
+Rev. 0; Upon completion of this training, the student will understand storage locations of BDB FLEX equipment located at Millstone Station
+Rev. 1; During the course of the walk down, identify available BDB FLEX Piping Tie in locations at Millstone Station
+Rev. 0; Upon completion of this training, the student will understand various FLEX piping tie in locations in Unit 2 and Unit 3.
+Rev. 1; Provide refresher training on compressors as part of a fixed element of the backbone Mechanical Maintenance Program.
+Rev. 0; Upon completion of this training session, the trainee will be able to identify and classify air compressors, describe the basic principles of operation and name the major components of the different types of air compressors.
+Describe the basic properties of air and pressure.
+Describe the operating characteristics of air compressors in general.
+Describe the operating characteristics of positive displacement air compressors including reciprocating, sliding-vane, rotary lobe, liquid piston, and rotary screw air compressors.
+Describe the operating characteristics of dynamic air compressors including centrifugal and axial-flow air compressors.
+Describe air compressor auxiliaries including lubrication, compressor cooling, intercooling, aftercooling, and load control.
+Upon completion of this course, the learner will understand the basic principles of electricity and electrical safety and how those principles are applied at the Millstone Power Station.
+Describe how electricity flows through a circuit.
+Distinguish the difference between voltage and current.
+State the relationship between voltage and current in a resistive circuit.
+Given two of the three values, voltage, current, or resistance, compute circuit power.
+Explain the purpose of an ungrounded power system.
+Describe how a rotating magnetic field is produced in an AC motor.
+List three advantages of three phase AC motors versus single phase AC motors.
+State the two types of electrical circuit protection and how we protect for each.
+Given a simplified drawing of a motor starter, describe its operation.
+List inspections to be performed on any extension cord prior to use.
+Explain the purpose of a GFCI for personal electrical protection.
+State the reasons for electrical train separation.
+List the train separation governing document for each unit.
+Upon completion of this lesson, the student will be able to describe the mechanisms for gas intrusion events as described in SOER 97-01 and SER 2-05 and how these events apply to Millstone Power Station's high pressure injection and storage tank level measurement systems.
+Given  describe how changes in these parameters affect gas intrusion.
+Given , understand the safety significant events and the potential consequences of a loss of high pressure safety injection.
+Given , describe the effects on pump net positive suction head and potential gas intrusion events.
+Given , describe the affect of a leaking isolation valve on gas intrusion.
+During operation of a high pressure charging system, describe how gas intrusion affects the pumps safety related performance requirements.
+Upon completion of this training, the student will demonstrate print reading and use of electrical test equipment during a troubleshooting evolution.
+Using , measure the following: Voltage, Current, and Resistance.
+Given , determine the unknown component value.
+Identify the controls, connections, and indications of a digital VOM.
+Explain how a VOM is connected to a circuit to obtain the following measurements: Voltage, Current, and Resistance.
+Identify the controls, connections, and indications of a Clamp-on ammeter.
+Explain how a Clamp-on ammeter is used in an operating circuit to obtain current values.
+List the safety precautions associated with using test equipment.
+Identify the schematic symbol and describe the operation of the following components: Resistor and Capacitor.
+State the purpose of the Auxiliary Feed System.
+Identify the major components of the Auxiliary Feed System.
+State how steam is used to produce mechanical energy.
+Identify the steam flow path through a turbine.
+Identify and state the function of the major turbine components.
+Perform Laser Alignments using Optalign® 'V'
+Perform Laser Alignments using Optalign® 'Plus'
+Explain the purpose of performing shaft alignments.
+Using  explain the basic process for performing a laser alignment using Optalign V®.
+Explain how and where thermal growth occurs and how alignment calculations can be affected.
+Describe the material used for shims and the term shim condition.
+Identify the differences between vertical and horizontal alignment when using Optalign®.
+Identify Optalign V® components and explain their use.
+Explain the four alignment profiles used by the Optalign®, to describe conditions at the coupling centers.
+Specify misalignment targets and their purpose when entered into the Optalign V® equipment.
+Explain soft foot, its causes, and how it affects alignment.
+Use the Optalign® forms to calculate the moves and shim requirements needed for the alignment.
+Using  explain the basic process for performing a laser alignment using Optalign® Plus.
+Identify Optalign Plus® components and explain their use.
+Explain the purpose of a typical screw pump.
+Translate centrifugal pump theory and terms into predictable pump performance characteristics.
+Explain the following common pump terms: suction lift, static suction lift, suction head, static suction head, static discharge head, total static head, friction head, velocity head, pressure head, friction loss, specific gravity, total dynamic suction lift, total dynamic suction head, total dynamic discharge head, total head or total dynamic head, capacity, break horsepower, net positive suction head (NPSH), pump efficiency, and best efficiency point (BEP).
+Describe the theory of operation of a typical multistage centrifugal pump.
+Explain the characteristics of a typical centrifugal pump curve.
+Given a typical centrifugal pump curve and data, explain the factors on the curve.
+Given a schematic of a system, explain what affects friction loss and its effect.
+Given technical data and a typical centrifugal pump curve, calculate and plot the best efficiency point (BEP).
+Explain how a given pump curve will change due to changes in pump speed (RPM).
+Explain the characteristics of various impeller designs.
+Perform Analysis of MOV Diagnostic Dynamic Test
+Perform Analysis of MOV Diagnostic Static Test
+Operate John Deere 6125M Tractor
+Perform pre use inspections of John Deere 6125M tractor
+Operation of the John Deere 6125M tractor.
+Connection and disconnection of front attachments for John Deere 6125M tractor.
+Connection and disconnection of equipment trailers to the John Deere 6125M tractor.
+Secure the John Deere 6125M tractor in the BDB dome.
+Troubleshooting
+Given a list of plant conditions, generate a troubleshooting problem statement.
+Identify monitoring points to be used for the acquire information portion of the Six Step troubleshooting process.
+Develop a troubleshooting plan IAW MA-AA-103.
+Explain how the good decision making model applies to plant troubleshooting. 
+
+Identify Red Flag and Green Flag behaviors within the troubleshooting process.
+Explain the importance of failure analysis in the troubleshooting process.
+Describe the Dominion Nuclear Fleet Lifting and Material Handling Program and Procedures 
+Describe the Fundamentals Rigging Safety Requirements Pertaining to Personnel, Plant, and Nuclear Safety 
+Explain the Planning and Preparation Requirements for a Rigging Activity
+Discuss Industry Operating Experiences Including SOER 06-2 "Rigging, Lifting, and Material Handling"
+Given a Method and Descriptive Example, Calculate the Weight of a Load to be Rigged
+Describe the Inspection Criteria and Proper Applications for the Following Rigging Slings:
+
+Wire
+Chain
+Synthetic
+Describe the Inspection Criteria and Proper Applications for the Following Rigging Hardware:
+
+Eyebolts
+Swivel Hoist Rings
+Turnbuckles
+Beam Clamps
+Shackles
+Beam Trolleys
+Plate Lifting Clamps
+Come-A-Longs
+Chainfalls
+State the Three Basic Hitches, Including Proper Application and Limitations
+Determine the Center of Gravity of an Uneven Load
+Describe the Process to Lift, Drift, and Invert a Load
+Explain the General Requirements for Selecting Rigging Anchor Points on the Load and Overhead Attachment Points
+Describe the Proper "Blocking" or "Cribbing" Methods for Securing Rigged Loads
+Describe the Criteria to Transport a Rigged Load Following All Applicable Rules and Regulations:
+
+NUREG 0612
+Rigging Practices
+Rigging Plans
+Level1 and 2 Lifts - Logic Tree
+Spotter Duties
+Pick and Carry
+High Power Lines
+Describe Inspection Criteria and Proper Operating Practices for Pendant Operated Cranes
+Describe "Special LIft Rigs" Including their Design, Construction, Testing, and Labeling Requirements
+Explain Hand Signals and the Verbal Communications Protocol Used When Acting as the Signalman During a Mobile or Overhead Crane Operations
+Describe the Proper Corner Softener Methods and Tools
+List the Requirements for Lifting Personnel in Personnel Man-Baskets
+Describe Applications for the Use of Rope and Knots to Support Rigging Activities
+State the Post Rigging Inspection and Storage Requirements for Rigging Equipment
+Enerpac Synchronous Lift Controller Equipment
+Explain safety concerns with using the Enerpac Synchronous Lift Controller Equipment.
+Explain the operation of the Enerpac Synchronous Lift Controller Equipment.
+Connect and disconnect the Enerpac Synchronous Lift Controller Equipment for use and storage.
+Monitor the Enerpac Synchronous Lift Controller Equipment for proper operation during a material handling evolution.
+Oxy-Acetylene
+Cryogenics
+Upon completion of this unit of instruction the student will be able to perform an Oxy-Acetylene Heating Operation per station procedures and industry standards.
+Describe the components required for operation of oxy-acetylene, to include: 
+ Cylinders
+ Regulators
+ Hoses
+ Torch Handle
+ Heating Tips
+ Tip cleaners
+ Personal Protective Equipment “PPE”
+ Flashback arrestors/check valves
+
+Describe the safety aspects of oxy-acetylene equipment, to include the safe handling, storage, transportation and use of oxygen and acetylene cylinders, and hoses and regulators.
+Describe the operation of oxy-acetylene equipment to include:
+ Torch tip cleaning and sizing techniques
+ Equipment preparation and inspection
+ Equipment assembly and testing
+ Light off and shutdown techniques
+ Equipment disassembly and storage
+
+Given oxy-acetylene equipment, perform a heating operation and secure the torch without creating a popping noise. 
+Describe the necessary components and set-up an oxy-acetylene rig for heating operations. 
+Upon completion of this unit of instruction, the student will be able to describe the purpose, use, and safety requirements of cryogenics.
+Describe properties of liquid cryogens.
+
+Describe the safety aspects of cryogenics, including storage, handling practices, and Personal Protective Equipment (PPE).
+Describe the purpose of cryogenics, including freeze sealing and shrink fitting.
+Describe the required actions for a cryogen spill.
+Explain first aid treatment for suffocation and frostbite.
+Procedures CMP 715E & MA-AA-110
+
+Upon completion of this training, the student will understand the changes to the Threaded Fastener Procedures that resulted from issues associated with Flexitalic Gasket failures.
+Upon completion of this training, the student will understand the procedural requirements associated with manufactured or modified tooling used at Dominion Nuclear Stations.
+Given a rising stem and butterfly valve static test, perform analysis in accordance with   MOV 1220 and DNES-AA-MOV-1001.
+
+Given a rising stem and butterfly valve dynamic test, perform analysis in accordance with   MOV 1220 and DNES-AA-MOV-1001.
+Inspect and Maintain AOV's using Diagnostic Equipment (FlowScan)
+Discuss the scope of work, roles, and responsibilities of team members.
+Discuss Industry Operating Experience associated with Pneumatic Control Valves.
+Review and discuss station procedure CBM 114.
+Describe how to export data.
+Given test data, evaluate the data to determine acceptance criteria in accordance with station procedures.
+Discuss different types of valves and positioners that will be tested during outage.
+Review DCN's that will be performed during outage.
+Review station procedures for compression fittings.
+Describe the FME Plan and the requirements contained in MA-AA-102, Foreign Material Exclusion.
+Explain the following safety factors while conducting maintenance on pneumatic control valves: tagging, prejob brief, self-checking, system conditions, system media, ALARA, proper tool use, and stored energy.
+Describe why "As Found" conditions are important and how the info is used.
+Given , inspect parts for damage and wear in accordance with station procedures.
+Given , assembly actuator in accordance with station procedures.
+Given a SMB-000 or SMB-00 actuator, disassemble and clean in accordance with station procedures.
+Given , disassemble and clean in accordance with station procedures.
+Given a SMB/SB/SBD size 0 or 1 actuator, inspect and describe damage or wear in accordance with station procedures.
+Given a SMB/SB/SBD size 0 or 1 actuator, assemble in accordance with station procedures.
+Given a , disassemble, clean, inspect and describe damage or wear, assemble in accordance with station procedures.
+Describe the equipment and transducers used with the Teledyne Quiklook II testing system.
+Describe the process for disassembly of a SMB-000 or SMB-00 actuator.
+Describe the inspection criteria for SMB-000 or SMB-00 actuator parts.
+Describe the process of assembling a SMB-000 or SMB-00 actuator.
+Describe the process for disassembly of a SMB/SB/SBD 1 - 4 actuator.
+Describe the  inspection criteria of a SMB/SB/SBD 1 - 4 actuator parts.
+Describe the process for assembly of a SMB/SB/SBD 1 - 4 actuator.
+Describe the disassembly, inspection criteria and assembly process for a HBC size 0/1/2/3/4/5 actuator.
+Describe the process for setting the Limitorque limit switches. 
+Perform the setting the Limitorque limit switches in accordance with station procedures.
+Describe the equipment and transducers used with the Crane testing system.
+Describe the placement the event markers used in diagnostic testing.
+Using the Teledyne Quiklook II test equipment and transducers, install the test equipment on the actuator in accordance with station procedures.
+Using the Crane test equipment and transducers, install the test equipment on the actuator in accordance with station procedures.
+Using the given test equipment, acquire a test and place event markers on test in accordance with station and fleet procedures.
+Using the test results, drawings and test plan, determine the adjustments required to meet the testing documents parameters.
+From memory, describe the purpose of Pneumatic Control Valves without error.
+Using  explain the basic maintenance required on air operated valves
+Describe the Components of a Typical Actuator
+Explain the Theory of Operation of a Typical Actuator
+Describe the Components of Typical Air Operated Valve
+Explain the Theory of Operation of a Typical Air Operated Valve.
+Evaluate the Operational Symptoms and Identify the Problems in a Typical Actuator
+Evaluate the Operational Symptoms and Identify the Problems in a Typical Air Operated Valve
+Upon completion of this unit of instruction the trainee will demonstrate the disassembly, inspection, repair, and reassembly of pneumatic control valves using applicable plant procedures and drawings.
+Disassemble, Inspect, and Reassemble a Typical Actuator
+Explain the Purpose of AOV Diagnostic Testing
+Using  explain the basic AOV Diagnostic Testing process
+Describe the Components of AOV Diagnostic Testing Equipment
+Explain the Theory of Operation of an AOV Diagnostic Test
+Evaluate the Operational Symptoms and Identify the Problems in an AOV Diagnostic Test
+Install, Test, Interpret, and Remove Diagnostic Test Equipment
+Describe the Components of an AOV Positioner
+Explain the Theory of Operation of an AOV Positioner
+Calibrate AOV Positioner
+Inspect and Maintain Rigging Equipment
+Describe the components required for operation of oxy-acetylene, to include: 
+ Cylinders
+ Regulators
+ Hoses
+ Torch Handle
+ Heating Tips
+ Tip cleaners
+ Personal Protective Equipment “PPE”
+ Flashback arrestors/check valves
+
+Describe the safety aspects of oxy-acetylene equipment, to include the safe handling, storage, transportation and use of oxygen and acetylene cylinders, and hoses and regulators.
+Describe the operation of oxy-acetylene equipment to include:
+ Torch tip cleaning and sizing techniques
+ Equipment preparation and inspection
+ Equipment assembly and testing
+ Light off and shutdown techniques
+ Equipment disassembly and storage
+
+Describe the necessary components and set-up an oxy-acetylene rig for heating operations. 
+Given oxy-acetylene equipment, perform a heating operation and secure the torch without creating a popping noise. 
+Reactor Vessel Closure Stud Detensioning and Tensioning (Units 2 and 3)
+Installation and Removal of Reactor Head Studs
+Installation and Removal of Reactor Head Guide Studs
+Transfer Canal Blind Flange Removal and Installation (Units 2 and 3)
+Reactor Head Movement (Units 2 and 3)
+
+Reactor Head O-rings (Units 2 and 3)
+
+HJTC Disassembly and Assembly(Units 2 and 3)
+Removal and Installation of the Unit 2 Core Support Barrel or Unit 3 Lower Internals
+MP2 Upper Guide Structure Removal and Installation
+Disassemble and Assemble Unit 2 ICI Grayloc
+Incore Flux Thimble Removal and Installation
+Removal and Installation of Rx Head Vent Piping and Supports
+MP3 Upper Internals Removal and Installation
+Disassemble and Reassembly of CET Grayloc
+Participate in the installation or removal of the upper guide structure lift rig.
+Participate in the installation or removal of the in-core instrumentation of the guide pins.
+Participate in the installation or removal of the in-core instrumentation support plate lift rig.
+Participate in the raising or lowering of the in-core instrumentation support plate..
+Participate in the removal or installation of the upper guide structure.
+Disassemble Unit 2 ICI Grayloc
+Clean and inspect Unit 2 ICI Grayloc
+Assemble Unit 2 ICI Grayloc
+Remove or install the Reactor Head Vent spool piece
+Remove or install Reactor Head Vent seismic restraints
+Install or remove upper internals lift rig 
+Remove or install upper internals.
+Install or remove the “blue link” load cell on the polar crane.
+Disassemble a CET Gray-loc assembly 
+Clean and inspect a CET Grayloc assembly 
+Assemble a CET Gray-loc assembly 
+Describe Reactor Head Closure Stud Tensioning and Detensioning process
+Participate in the set-up of the tensioning equipment on either reactor vessel closure head.
+Describe the set-up if using the two tensioner method of detensioning or tensioning. 
+Explain the consequence of setting a tensioner on a Unit 2 reactor stud without air supplied to the tensioner.
+Participate in either detensioning or tensioning of either reactor vessel closure head.
+Define the point a mode change occurs when detensioning or tensioning.
+Operate stud tensioner during detensioning or tensioning.In either containment
+Use SEMS unit (or equivalent.) to take initial or final elongation measurements of studs. 
+Remove and/or install reactor head studs, washers, and nuts 
+Operate stud runner to remove or install reactor head studs 
+Install stud hole plugs.
+Identify which studs are removed from Unit 2 head and why.
+Identify which studs are removed from Unit 3 head and why.
+
+Describe how the studs are rigged for removal and installation.
+
+Describe the process and acceptance criteria for cleaning stud holes
+
+Describe the steps involved with installing and removing stud hole plugs. 
+
+Remove/install reactor guide pin sleeves. 
+
+Remove/install reactor guide studs 
+
+Describe the rigging configuration for handling the guide studs.
+
+Identify the locations the guide studs are installed in Unit 2.
+Identify the locations the guide studs are installed in Unit 3.
+Participate in the installation of either transfer tube blind flange
+State the major differences between the blind flange at Unit 2 and the blind flange at Unit 3.
+The possible consequence to removing the o-rings clips to early during the installation of the blind flanges.
+Participate in the removal or installation of either reactor vessel closure head.
+Describe the safe travel path for the Unit 2 reactor closure head.
+Identify the critical parameters monitored while moving reactor closure heads and what are the exit strategies if these parameters approach a limit.
+
+Identify the indications of the reactor closure head binding on the guide pins. 
+
+Describe what is important about the positions of the reactor head hoists while moving the Unit 3 reactor closure head. 
+
+Illustrate the type of activities that must be completed prior to lifting a reactor closure head. (Example: mirrored insulation must be removed.) 
+
+Stage reactor head o-rings in containment. 
+Perform inspections of reactor head o-rings. 
+Remove and dispose reactor head o-rings from reactor head. 
+Install reactor head o-rings.
+Describe the concerns related to physically handling the reactor head o-rings either before or during installation.
+
+Sate the minimum number of sets of reactor head o-rings are staged in containment. 
+
+List the inspection criteria for reactor head o-rings. 
+
+State what is used to clean reactor head o-rings.
+
+Describe the concerns related to physically handling the reactor head o-rings either before or during installation.
+
+Participate in attaching or removing lifting rig to either the core support barrel (unit 2) or lower internals (Unit 3.)
+Participate in removing or installing either core support barrel (Unit 2) or lower internals (Unit 3) from reactor vessel
+Describe the consequences of attempting to lift core support barrel or lower internals without all the lifting legs engaged.
+Describe the steps taken to reduce the radiation dose received during the handling of the core support barrel or lower internals.
+Disassemble HJTC probe 
+Perform HJTC cleaning and inspection 
+Assemble a HJTC probe 
+Describe the basic construction of the seals.
+Describe the inspection of sealing surfaces.
+State how many rings of Grayfoil packing are used.
+State the operating pressure that these seals are exposed to.
+Identify the components that are torqued.
+Describe the process used to ensure the Grayloc clamps are properly tightened.
+Unit 3 Missile Shield Related
+Identify and describe the method used to disconnect and remove the ventilation duck work
+Identify and describe the method used to disconnect and remove the chill water piping
+Identify and discuss the method used to remove the missile shield and place it in the proper storage area 
+Identify and describe the method used to disassemble and remove the CET Grayloc Assemblies
+Describe the method used to remove the reactor head insulation
+Identify and describe the methods used to remove the HJTC
+Describe the method used to install the Guide Pins
+
+Discuss the precautions associated with removal of the Reactor Upper Internals
+
+Describe the expected load cell reading upon lifting the Upper Internals from the Reactor
+
+Describe the method used to remove and install the Unit 3 Fuel Transfer Tube Blind Flange
+
+Describe the method used to install the Unit 2 fuel transfer tube blank flange 
+
+Identify and discuss the method used to remove the Unit 3 missile shield and place it in the proper storage area 
+
+Describe the process for removal and installation of the Unit 3 Upper Internals
+
+Describe the method used to install the reactor head insulation
+
+Describe and discuss the methods used to install, test, and remove the Unit 3 pit seal manway covers 
+
+Identify and describe the method to install the HJTC
+
+Identify and describe the method used to assemble and install the CET Grayloc assemblies
+
+Identify and describe the method used to install the Missile Shield
+
+Identify and describe the method used to install the Unit 3 Missile Shield
+
+Identify and describe the method used to install and connect the Chill Water piping to the CRDM Coolers
+
+Describe the method to install the Unit 3 CRDM Cooling Duct
+
+Unit 2 Missile Shield related
+Identify and describe the method used to disconnect and remove CEDM duct work coolers
+Identify and describe the method used to disconnect and remove the RBCCW piping from the CEDM coolers
+Identify and discuss the method used to remove the missile shield and place it in the proper storage area 
+
+Identify and discuss the method used to remove the Unit 2 missile shield and place it in the proper storage area 
+
+Unit 2 Stud Cleaner Related
+Describe the safety precautions associated with the operation of the stud cleaning machine.
+
+Describe the method used to clean reactor closure studs in the stud cleaning machine.
+
+Describe the method used to clan reactor closure stud nuts in the stud cleaning machine.
+e
+Describe the safety precautions associated with installing new reactor head O-rings.
+
+Describe the method used to remove the old o-rings from the reactor head.
+
+Describe the method used to install Reactor Head O-rings
+
+Describe the method and the equipment used to clean the o-ring seating surface. 
+
+Discuss the methods used to remove the UGS from its storage area and center it over the reactor vessel.
+
+Describe the expected loadcell readings while lowering the UGS to the reactor vessel.
+
+Discuss the manipulation of the reactor cavity water level during installation of the upper guide structure
+
+Describe the process to disconnect UGS lift rig from the UGS and placing it in its storage area.
+
+Discuss safety precautions associated with the installation of the #1 CEA shaft extension into the "UGS
+
+Describe the method used to remove the CEA extension shaft protection sleeves from the extension shafts.
+
+Identify and describe the tools and methods used to install the #1 CEA extension shaft into the "UGS".
+
+Discuss the safety precautions  associated with the procedure used to perform reactor head installation
+
+Describe the expected loadcell indications upon lifting the reactor head from its storage area. 
+
+Describe the method used to lower and align the reactor head with the reactor vessel.
+
+Identify and describe the method used to install the missile shield
+
+Identify and describe the methods used to install and connect the RBCCW piping to the CEDM coolers.
+Describe and discuss the methods used to close and test the Unit 2 pit seal manway covers.
+
+Upon completion of this training the student will be able to describe the inspection of the ICI sealing surfaces in accordance with MP 2704E.
+Upon completion of this training the student will be able to state how many rings of Grafoil packing are used in an ICI flange in accordance with MP 2704E.
+Upon completion of this training the student will be able to state the operating pressure that the ICI flange seals are exposed to in accordance with MP 2704E.
+Upon completion of this training the student will be able to identify the ICI flange components that are torqued in accordance with MP 2704E.
+Upon completion of this training the student will be able to describe the process used to ensure the ICI Grayloc clamps are properly tightened in accordance with MP 2704E.
+Describe ICI tasks associated with Reactor Disassembly / Assembly
+Describe the installation of the Unit 2 Reactor Head onto the vessel
+
+Describe the ICI Support Plate installation process
+
+Describe the process of cleaning the reactor vessel flange prior to head installation
+
+Describe the method used to remove Reactor Head O-rings
+
+Describe tasks associated with HJTC’s during Reactor Disassembly / Assembly
+
+Describe the process to remove and install the checkered plate.
+Discuss the precautions associated with Reactor Head Removal
+Describe the Unit 3 reactor head removal and storage.
+Describe the expected load cell indications upon lifting the reactor vessel head.
+Describe the expected load cell reading upon lifting the upper Internals from the storage rack
+Describe the precautions associated with installation of the Reactor Upper Internals
+
+Describe the process for removing and installing the Unit 3 head vent line.
+Describe the reactor head area maintenance activities that require Quality Control (QC) inspections or verifications.
+Upon completion of this unit of instruction you will be able to perform an Oxy-Acetylene Heating Operation per station procedures and industry standards.
+Test Mechanical Snubbers
+Test Hydraulic Snubbers
+Install and Remove Hydraulic Snubber
+Test MOV's using Diagnostic Test Equipment
+Inspect and Maintain MOV's
+Inspect and Maintain MOV's
+Inspect and Maintain Main Steam Isolation Valves (MSIV)
+Inspect and Maintain Main Steam Isolation Valves (MSIV)
+Adjust Pressure Compensators
+Inspect and Maintain Taper Pins
+Inspect and Maintain Diaphragm Pumps (Cyclo-Phram)
+Inspect and Maintain Unit 2 RCP Mechanical Seal
+Inspect and Maintain Unit 3 RCP Mechanical Seal
+Inspect and Maintain Unit 2 Emergency Diesel Generator
+Inspect and Maintain Unit 3 Emergency Diesel Generator
+Inspect and Maintain Station Blackout Diesel Generator
+Operate Unit 2 Containment Jib Crane
+Maintain and Operate S/G and Pressurizer Manway Tensioner
+Perform Basic Electrical Functions to Assist in Equipment Maintenance and Troubleshooting
+Connect Electrical Equipment to a 480 Volt Receptacle
+Enter Transformer Yard by a Non-Electrical Worker
+Enter a 4160 & 6900 Volt Cabinet by a Non Electrical Worker
+Operate Valve Packing Extraction System
+Operate the Unit 3 Personnel Hatch
+Inspect and Maintain Unit 2 Terry Turbine Control Valve and Trip Valve Linkages
+Inspect and Maintain Unit 3 Terry Turbine Control Valve and Trip Valve Linkages
+Obtain Terry Turbine QSS Data using Diagnostic Test Equipment
+Operate the Dunn's High Volume Test Stand
+Maintain and Operate Hytorc Hydraulic Tensioning Tool
+Inspect and Maintain Overhead Cranes
+Inspect and Maintain Overhead Cranes
+Install Maxi-Bolt Concrete Anchors
+Install Hilti Bolt Concrete Anchors
+Inspect and Maintain Gear Boxes and Reduction Gears
+Perform a periodic inspection of a synthetic and wire rope sling and identify all deficiencies.
+Perform a periodic inspection of a manual hoist and identify all deficiencies.
+Perform periodic inspection of a rigging hardware item and identify all deficiencies.
+Properly label a piece of rigging hardware that has been inspected satisfactorily with a periodic inspection tag or label.
+Describe the Dominion Nuclear Fleet Lifting and Material Handling Program and Procedures 
+Describe the Fundamentals Rigging Safety Requirements Pertaining to Personnel, Plant, and Nuclear Safety 
+Explain the Planning and Preparation Requirements for a Rigging Activity
+State the Post Rigging Inspection and Storage Requirements for Rigging Equipment
+Explain the precautions while transporting hydraulic snubbers for functional testing.
+Describe you actions if the snubber size and serial number does not match information recorded on work documentation.
+Explain how a snubber can be checked for potential pipe spring/strain and what precautions do you take if it does.
+Identify the snubber component that is located between the clevis and spherical bushing that could fall out and extreme precautions should be taken, to prevent them from falling out.
+Explain who has to authorize continuing removal of a hydraulic snubber if pipe spring/strain was encountered and recorded.
+Describe what items can not be used in the cleaning of moving or sliding parts on a hydraulic snubber.
+Describe under what installation conditions you would 'stake' the spherical bushing of a snubber.
+Describe where you find the torque values for snubber installation and who has to witness the torque.
+Explain how many times a 'Load Pin' cotter pin can be reused.
+When an installed snubber is declared inoperable, what effect does it have on plant operations (Unit is at 100% power).
+Describe the criteria for shims used in snubber installation including: shim material, shim thickness (maximum), and thickness requirements for each side of paddle.
+Describe the position of the breather filter and the fluid outlet port, when removing a hydraulic snubber.
+Describe when it is permissible to lift a hydraulic snubber by its reservoir or piping.
+Explain how you block a hydraulic snubber piston from moving and identify the component that must be attached prior to moving the piston.
+Identify the component that the threaded rod of a Grinnell snubber must be visible in, if the snubber and extension piece jam nut was loosened for any reason.
+Describe your actions if the remote reservoir on a hydraulic snubber is suspected of air binding or empty.
+Describe the hydraulic snubber paddle to clevis angle requirements.
+Describe the process for recording 'As Found' and 'As Left' hydraulic piston settings.
+Inspect a Hydraulic Snubber (externally)
+Remove Snubber from system
+Perform Snubber tester velocity calibration check
+Install Snubber in Test Stand
+Check Snubber for thermal movement
+Perform Snubber functional test
+Remove fluid from a Snubber
+Rebuild/Repair a Snubber
+Fill a Snubber with Snubber fluid
+Install a Snubber in the system
+Define the purpose of a safety valve.
+Define the purpose of a relief valve.
+Define the purpose of a safety/relief valve.
+Identify the major parts of a safety/relief valve.
+Identify the different inspection points, how they are inspected and what they are inspected for.
+Test a safety or relief valve in accordance with plant procedures.
+Explain the purpose of gagging devices and how to recognize if one was installed on a relief valve.
+Explain the theory of operation of safety/relief valves.
+Define the following terms associated with safety/relief valves:
+Accumulation
+Blowdown
+Capacity
+Chatter
+Lift
+Cold Differential Test Pressure
+Reseat Pressure
+Set Pressure
+Simmer/ Warm
+Thermal Expansion
+Acronyms: ANI, ANII, ISI, LLRT, Code Stamps
+Discuss the prerequisites for removing the Unit 3 core barrel.
+
+Describe the camera plan for removing and installing the Unit 3 core barrel.
+
+Describe the communications plan for removing and installing the Unit 3 core barrel.
+
+Describe the process for attaching the internals lift rig.
+Describe the process for removing and installing the Unit 3 core barrel
+Describe the Dominion Nuclear Fleet Lifting and Material Handling Program and Procedures.
+Describe the major components of a pendant operated crane.
+Describe inspection criteria and proper operating practices for Pendant Operated Cranes.
+Explain hand signals and the verbal communications protocol used when acting as the signalman during mobile or overhead crane operations.
+Describe the criteria to transport a rigged load following all applicable rules and regulations.
+Operate the floor operated (pendant) crane in accordance with all applicable rules and regulations.
+Inspect and Maintain Safety/Relief Valves
+Mark provided MOV rising stem and quarter-turn valve dynamic tests and print reports in accordance with DNES-AA-MOV-1001.
+Discuss the terminology used when performing analysis of  MOV dynamic test
+Discuss the alpha-numeric marking standard when analyzing MOV dynamic test.
+Discuss the alpha-numeric marking standard used for marking MOV static test.
+Discuss the different types of valves used in a typical power plant and their applications.
+Discuss the requirements pertaining to the testing and marking of a MOV static test in accordance with DNES-AA-MOV-1001 procedure.
+Mark a MOV rising stem and quarter-turn valve static tests and print reports in accordance with DNES-AA-MOV-1001.
+Perform Laser Alignments using Rotalign® Ultra
+Explain the purpose of performing shaft alignments.
+Using  explain the basic process for performing a laser alignment.
+Explain how and where thermal growth occurs and how alignment calculations can be affected.
+Describe the material used for shims and the term shim condition.
+Identify Rotalign® Ultra components and explain their use.
+Explain how to identify and correct for soft foot.
+Explain the four alignment profiles used by the Rotalign® Ultra, to describe conditions at the coupling centers.
+Specify misalignment targets and their purpose when entered into the Rotalign® Ultra equipment.
+Use the Rotalign® Ultra forms to document and perform an alignment.
+Use precision measuring equipment
+Describe the following terms as they relate to the precision measurement of mechanical dimensions and clearances:
+     a. Total Indicator Reading (TIR)
+     b. Diametrical Clearance
+     c. Total Clearance
+     d. Running Clearance
+     e. Runout
+Describe the purpose and operation of devices used to obtain precision measurements of distance including:
+        
+
+
+
+
+    Outside Micrometer
+    Inside Micrometer
+    Depth Micrometer
+    Telescoping Gage
+    Vernier Calipers
+
+Given an Outside Micrometer, Inside Micrometer, Depth Micrometer, Vernier Micrometer, a 
+Telescoping Gage and a bearing installation mockups, measure the bearing mockups dimensions to within +/- .002" and record readings on the APM.
+
+Inspect and Maintain Bearings and Lubrication
+Define the following terms: Friction, Lubricant, Boundary Lubrication, and Full Film Lubrication
+List and describe three purposes of a lubricant.
+List and describe the three physical states of a lubricant.
+Given descriptions or diagrams of common bearings, identify each by type and application.
+Identify the component parts of plain and anti-friction bearings.
+Describe common mechanisms of bearing failure.
+Describe the two preferred methods of bearing removal and replacement.
+Given all required tools and consumable materials, perform a bearing replacement in accordance with specified procedures and record on the APM.
+Inspect and Maintain MOV's
+Inspect and Maintain Target Rock Solenoid Valve Internals
+Inspect and Maintain Rotary Plunger Pumps
+s the student will be able to describe pump classifications, terms, and operational characteristics of kinetic (centrifugal) and positive displacement pumps in accordance with industry standards from memory.
+Given a list the student will be able to explain the following basic pump terms from memory: Pressure, flow, capacity, atmospheric pressure, gage pressure, absolute pressure, vacuum, vapor pressure, NPSH, cavitation, suction head, discharge head, axial, radial, kinetic energy, series operation, parallel operation, and "Gas Intrustion".
+Perform Basic Electrical Functions to Assist in Equipment Maintenance and Troubleshooting
+Given a mockup the student will be able to disassemble, inspect, and reassemble a single stage, end suction, in line, impeller overhung centrifugal pump without error.
+Inspect and Maintain Warehouse Stacking System
+Inspect and Maintain Needle Valves
+Inspect and Maintain Gear Pumps
+ the student will be a ble to describe the major pump classifications from memory.
+ the student will be able to describe the basic operation of kinetic, positive displacement, and jet pumps from memory.
+ the student will be able to describe the operational differences between single and multistage pumps from memory.
+Lubricate Pumps
+ the student will be able to describe the most common type of drivers used to power pumps from memory.
+s the student will be able to describe the purpose of pumps from memory.
+ the student will be able to explain the purpose of a typical gear pump from memory.
+ the student will be able to explain the theory of operation of a typical gear pump from memory.
+ the student will be able to describe the components of a typical gear pump from memory.
+ the student will be able to evaluate the operational symptom and identify the problems in a typical gear pump from memory.
+Given a mockup the student will be able to disassemble, inspect, and reassemble a typical gear pump without error.
+Inspect and Maintain Axial Piston Pumps
+Explain the Purpose of a Typical Axial Piston Pump
+Describe the Components of an Axial Piston Pump
+Explain the Theory of Operation of an Axial Piston Pump
+Evaluate the Operational Systems and Identify the Problems in An Axial Piston Pump
+Disassemble, inspect, and reassemble a typical axial piston pump.
+Lubricate Valves
+Perform troubleshooting activities on basic pumps
+Given pump and system response information the student will be able to define pump troubleshooting from memory.
+Given pump and system response information the student will be able to describe the tools used in pump troubleshooting from memory.
+Given pump and system response information the student will be able to explain Pump Troubleshooting Techniques from memory.
+Given pump and system response information the student will be able to explain pump abnormalities and diagnosis from memory.
+Given pump and system response information the student will be able to discuss pump characteristics, including suction pressure, discharge pressure, series/parallel operation, and flow Vs. amps from memory.
+(CT) Inspect and Maintain Rigging Equipment
+Describe the Dominion Nuclear Fleet Lifting and Material Handling Program and Procedures 
+Describe the Fundamentals Rigging Safety Requirements Pertaining to Personnel, Plant, and Nuclear Safety 
+Explain the Planning and Preparation Requirements for a Rigging Activity
+State the Post Rigging Inspection and Storage Requirements for Rigging Equipment
+Perform a periodic inspection of a synthetic and wire rope sling and identify all deficiencies.
+Given a plant valve and applicable maintenance procedure, perform maintenance and repairs on basic valves in accordance with procedure acceptance criteria, correctly.
+Given C MP 797, Valve Packing, explain packing removal and installation on basic valves without error.
+Given a Valve Maintenance Procedure, describe blue checking on basic valves correctly.
+Given a Valve Maintenance Procedure, describe valve lapping on a gate or globe valve correctly.
+Given MP 2701F or MP 3710AA, recall how to lubricate basic valve components correctly.
+Describe the importance of testing safety/relief valves.
+Inspect and Maintain Safety/Relief Valves
+Describe the procedure changes to the safety/relief valve testing procedure.
+Students shall demonstrate proper threaded fastener use and lubricant application
+Describe threaded fastener classes
+Describe different grades of bolting
+Describe methods of threaded fastener lubrication, including teflon tape
+Describe the available Loctite® products and their applications.
+Describe the proper use of the following threaded fastener adhesives:
+     A. Anaerobic Adhesives
+     B. Epoxies
+     C. Cyanoacrylates
+     D. Silicone Adhesives
+Given a Millstone Drawing System and computer software, demonstrate how to locate and use the information found in Station drawings.
+State the purpose of station drawings.
+State the Millstone programs that are utilized to find drawings via computer software.
+Using computer software explain or demonstrate how to:
+Locate a drawing given a plant ID
+Verify drawing status information
+
+Describe and explain the purpose of various types of station mechanical drawings including:
+Piping & Instrumentation Drawings (P&ID) [26000 series] 
+Fabrication/Installation Drawings  [20000/21000 series]
+Piping Drawings  [22000 series]
+Seismic Support Drawings  [22000 series]
+General Arrangement Drawings  [27000 series]
+Vendor Drawings  [29000 series]		
+
+Perform a laser alignment using Optalign® V, to within industry excellence standards for an 1800 RPM machine.
+Explain the purpose of performing shaft alignment.
+Explain how and where thermal growth occurs and how alignment calculations can be affected.
+Describe the material used for shims and the term shim condition.
+Identify the differences between vertical and horizontal alignment when using Optalign®.
+Explain the four alignment profiles used by the Optalign®, to describe conditions at the coupling centers.
+Specify misalignment targets and their purpose when entered into the Optalign® Plus equipment.
+Explain soft foot, its causes, and how it affects alignment.
+Use the Optalign® forms to calculate the moves and shim requirements needed for the alignment.
+Perform a laser alignment using Optalign® Plus, to within industry excellence standards for an 1800 RPM machine.
+Students shall demonstrate conservative decision making that emphasizes nuclear safety
+Discuss the Chernobyl nuclear accident.
+Describe the critical time line events of the Chernobyl nuclear accident.
+Discuss MPS events that relate to the Chernobyl accident (poor decision making, nuclear safety).
+Upon completion of this unit of instruction, the student will be able to explain how to maintain V-belt drive systems in accordance with manufacturers specifications.
+Explain the proper method of v-belt tensioning.
+Explain the sheave inspection process.
+Explain the sheave alignment process.
+Students shall evaluate configuration control and component verification methods
+Discuss methods of Configuration Control
+Discuss methods of Verification Practices
+Review and discuss SOER 98-1 Safety System Status Control OE and related Millstone Power Station OE
+Demonstrate proper configuation control and verification methods
+Operate Mobile Crane (Tadano)
+Prior to U2 Outages, students shall review and discuss Main Steam Safety Valve (MSSV) testing IAW SP 2730B.
+Explain safety/relief valve testing requirements including:
+
+- test media
+- seat tightness criteria
+- personnel safety
+Describe work scope associated with Main Steam Safety Valve Testing.
+Describe team make up and roles and responsibilities for Main Steam Safety Valve Simmer Testing.
+Describe the procedural and Work Order requirements associated with Main Steam Safety Valve Simmer Testing.
+Foam Cartridge Based Seals-----Qualification
+Medium/High Density Elastomer Seals-----Qualification
+
+Silicone Boot Seals-----Qualification
+
+Foam Dispensing Machine and Gun-----Qualification
+
+Caulk,Link and Fiber Seals-----Qualification
+
+State the purpose of penetration seals.
+Recognize the types of penetrations.
+Recognize the various barrier types.
+Identify the types of penetration seals.
+Identify special considerations associated with penetration seal installation.
+Recognize the application and performance requirements.
+Recognize the important safety considerations.
+Recognize the damming requirements.
+State the uses of the multi-component silicone foam.
+Identify the mixing requirements of the multi-component silicone foam.
+Recognize the proper application techniques for installing the multi-component silicone foam.
+Recognize the damming installation requirements for multi-component silicone foam.
+State the uses of the multi-component silicone elastomer.
+Identify the mixing requirements of the multi-component silicone elastomer.
+Recognize the proper application techniques for installing the multi-component silicone elastomer.
+Recognize the damming installation requirements for multi-component silicone elastomer.
+State the uses of the multi-component high density silicone elastomer.
+Identify the mixing requirements of the multi-component high density silicone elastomer.
+Recognize the proper application techniques for installing the multi-component high density silicone elastomer.
+Recognize the damming installation requirements for the multi-component silicone elastomer.
+State the uses of the single-component silicones.
+Recognize the proper application techniques for installing single-component silicones.
+State the uses of boot seals.
+Recognize the proper application techniques for installing boot seals.
+Understand the proper mixing techniques associated with cartridge dispensing.
+Disassemble, inspect, and reassemble a typical multistage horizontal split case pump.
+Evaluate the Operational Symptoms and Identify the Problems in a Typical Actuator
+Evaluate the Operational Symptoms and Identify the Problems in a Typical Air Operated Valve
+Operate Mobile Crane (Liebherr LTM 1250)
+Operate Mobile Crane (55 Ton)
+Operate Mobile Crane (90 Ton)
+Understand the basic operation of the test stand.
+Understand the basic operation of a mechanical snubber.
+Understand the basic operation of a hydraulic snubber.
+Understand the basic operation of the test stand.
+Current qualification for NU-VLV-MP1TURB, 'Unit 1 Turbine Building Crane' or NU-VLS-MP3TURBCRANE, 'Unit 3 Turbine Building Crane'.
+Read MP 790.4, Control of Heavy Loads.
+Satisfactorily complete the knowledge requirements of Attachment 1.
+Current Medical Qualification ASME B30.2 & B30.5, 'Crane Operator's' 
+Read MA-AA-101, 'Fleet Lifting and Material Handling'
+Read MA-AA-OCR-101, 'Overhead Cranes/Hoists'
+Read MP 790.4, Control of Heavy Loads.
+Read MP 2712B1, Control of Heavy Loads
+Read MP 2712B2, Overhead Crane Operating Information.
+Read Operating Experience on Attachment 3.
+Satisfactorily complete the knowledge requirements of Attachment 1.
+Current qualification for NU-VLV-MP1TURB, 'Unit 1 Turbine Building Crane' or NU-VLS-MP3TURBCRANE, 'Unit 3 Turbine Building Crane'.
+Read MP 2712B1, Control of Heavy Loads
+Read MP 2712B2, Overhead Crane Operating Information.
+Read Operating Experience on Attachment 3.
+Satisfactorily complete the knowledge requirements of Attachment 1.
+Current qualification for NU-VLV-MP1TURB, 'Unit 1 Turbine Building Crane' or NU-VLS-MP3TURBCRANE, 'Unit 3 Turbine Building Crane'.
+Read MP 2712B1, Control of Heavy Loads
+Read MP 2712B2, Overhead Crane Operating Information.
+Satisfactorily complete the knowledge requirements of Attachment 1.
+Read MA-AA-101, 'Fleet Lifting and Material Handling'
+Read MA-AA-MCR-101, "Mobile Cranes'
+Read MP 2712B1, Control of Heavy Loads
+Read MP 2712B2, Overhead Crane Operating Information.
+Read Operating Experience on Attachment 3.
+Satisfactorily complete the knowledge requirements of Attachment 1.
+Current qualification for NU-VLV-MP1TURB, 'Unit 1 Turbine Building Crane' or NU-VLS-MP3TURBCRANE, 'Unit 3 Turbine Building Crane'.
+Read MP 2712B1, Control of Heavy Loads
+Read MP 2712B2, Overhead Crane Operating Information.
+Read Operating Experience on Attachment 3.
+Satisfactorily complete the knowledge requirements of Attachment 1.
+Current qualification for NU-VLV-MP1TURB, 'Unit 1 Turbine Building Crane' or NU-VLS-MP3TURBCRANE, 'Unit 3 Turbine Building Crane'.
+Read MP 3704B, Control of Heavy Loads
+Read MP 3770BA, Operating Polar Crane.
+Satisfactorily complete the knowledge requirements of Attachment 1.
+Current qualification for NU-VLV-MP1TURB, 'Unit 1 Turbine Building Crane' or NU-VLS-MP3TURBCRANE, 'Unit 3 Turbine Building Crane'.
+Read MP 3704B, Control of Heavy Loads
+Read OPS-FH 303J, Spent Fuel Shipping Cask Trolley
+Read Operating Experience on Attachment 3.
+Satisfactorily complete the knowledge requirements of Attachment 1.
+NU-FLMH-TRNG, 'Fleet Lifting and Material Handling Training CBT
+Valid and current State of Connecticut Crane Operators License with specific qualifications for "Hydraulic" and "Mobile"
+Current Medical Qualification ASME B30.2 & B30.5, 'Crane Operator's' 
+Read MA-AA-101, 'Fleet Lifting and Material Handling'
+Read MA-AA-MCR-101, 'Mobile Cranes'
+Read Operating Experience on Attachment 3.
+Satisfactorily complete the knowledge requirements of Attachment 1.
+NU-FLMH-TRNG, 'Fleet Lifting and Material Handling Training CBT
+Valid and current State of Connecticut Crane Operators License with specific qualifications for "Hydraulic" and "Mobile"
+Current Medical Qualification ASME B30.2 & B30.5, 'Crane Operator's' 
+Read MA-AA-101, 'Fleet Lifting and Material Handling'
+Read MA-AA-MCR-101, 'Mobile Cranes'
+Read Operating Experience on Attachment 3.
+Satisfactorily complete the knowledge requirements of Attachment 1.
+Discuss the terminology used when performing analysis of  MOV dynamic test
+Discuss the alpha-numeric marking standard when analyzing MOV dynamic test.
+Discuss the alpha-numeric marking standard used for marking MOV static test.
+Discuss the requirements pertaining to the testing and marking of a MOV static test in accordance with DNES-AA-MOV-1001 procedure.
+Transport Mobile Crane (Liebherr LTM 1250)
+NU-FLMH-TRNG, 'Fleet Lifting and Material Handling Training CBT
+Valid and current State of Connecticut Crane Operators License with specific qualifications for "Hydraulic" and "Mobile"
+Current Medical Qualification ASME B30.2 & B30.5, 'Crane Operator's' 
+Read MA-AA-101, 'Fleet Lifting and Material Handling'
+Read MA-AA-MCR-101, 'Mobile Cranes'
+Read Operating Experience on Attachment 3.
+Satisfactorily complete the knowledge requirements of Attachment 1.
+(CT) Inspect and Maintain Unit 3 Terry Turbine Control Valve and Trip Valve Linkages
+(CT) Inspect and Maintain Unit 2 Terry Turbine Control Valve and Trip Valve Linkages
+State the purpose of the Unit 2 Auxiliary Feed System.
+Identify the major components of the Unit 2 Auxiliary Feed System.
+State how steam is used to produce mechanical energy.
+Identify the steam flow path through a turbine.
+Identify and state the function of the major turbine components.
+State the purpose of the Unit 2 Auxiliary Feed System.
+Identify the major components of the Unit 2 Auxiliary Feed System.
+State how steam is used to produce mechanical energy.
+Identify the steam flow path through a turbine.
+Identify and state the function of the major turbine components.
+Identify the steam flow path through a turbine.
+Identify and state the function of the major turbine components.
+Identify the steam flow path through a turbine.
+Identify and state the function of the major turbine components.
+Prior to U2 Outages, students shall review and discuss Main Steam Safety Valve (MSSV) testing IAW SP 2730B.
+Explain safety/relief valve testing requirements including:
+
+- test media
+- seat tightness criteria
+- personnel safety
+Describe work scope associated with Main Steam Safety Valve Testing.
+Describe team make up and roles and responsibilities for Main Steam Safety Valve Simmer Testing.
+Describe the procedural and Work Order requirements associated with Main Steam Safety Valve Simmer Testing.
+Prior to U3 Outages, students shall review and discuss Main Steam Safety Valve (MSSV) testing IAW SP 3712G.
+Explain safety/relief valve testing requirements including:
+
+- test media
+- seat tightness criteria
+- personnel safety
+Describe work scope associated with Main Steam Safety Valve Testing.
+Describe team make up and roles and responsibilities for Main Steam Safety Valve Simmer Testing.
+Describe the procedural and Work Order requirements associated with Main Steam Safety Valve Simmer Testing.
+Describe the process for solenoid valve removal and installation from the control blocks.
+
+Describe the process for left and right control block removal and installation from the main valve.
+
+Install and Remove Mechanical Snubber
+Explain the precautions while transporting mechanical snubbers for functional testing.
+Describe you actions if the snubber size and serial number does not match information recorded on work documentation.
+Explain how a snubber can be checked for potential pipe spring/strain and what precautions do you take if it does.
+Identify the snubber component that is located between the clevis and spherical bushing that could fall out and extreme precautions should be taken, to prevent them from falling out.
+Describe under what installation conditions you would 'stake' the spherical bushing of a snubber.
+Describe where you find the torque values for snubber installation and who has to witness the torque.
+Explain how many times a 'Load Pin' cotter pin can be reused.
+When an installed snubber is declared inoperable, what effect does it have on plant operations (Unit is at 100% power).
+Describe the criteria for shims used in snubber installation including: shim material, shim thickness (maximum), and thickness requirements for each side of paddle.
+Describe the process for recording 'As Found' and 'As Left' mechanical piston settings.
+NU-FLMH-TRNG, 'Fleet Lifting and Material Handling Training CBT'
+Satisfactorily complete the knowledge requirements of Attachment 1.
+Read Operating Experience on Attachment 2.
+Read C MP 714C, Mechanical Snubber Removal and Installation
+Satisfactorily complete the knowledge requirements of Attachment 1.
+Read Operating Experience on Attachment 2.
+Read NC 1904C, Hydraulic Snubber Removal and Installation
+NU-FLMH-TRNG, 'Fleet Lifting and Material Handling Training CBT'
+Operate Unit 3 Turbine Building Crane
+NU-FLMH-TRNG, 'Fleet Lifting and Material Handling Training CBT'
+Current Medical Qualification ASME B30.2 & B30.5, 'Crane Operator's' 
+Read MA-AA-101, 'Fleet Lifting and Material Handling'
+Read MA-AA-OCR-101, 'Overhead Cranes/Hoists'
+Read Operating Experience on Attachment 3.
+Satisfactorily complete the knowledge requirements of Attachment 1.
+mechanical maintenance technicians shall demonstrate properly setting travel stops on a diaphragm valve
+Explain the theory of operation of a typical diaphragm valve
+Discuss the operating practices and common problems associated with diaphragm valves
+Perform setting the travel stop on a diaphragm valve IAW C MP 703A
+Mechanical Maintenance Technicians shall be able to compare the relationship between plug valve maintenance standards and our Worker and Maintenance Technical Fundamentals
+Discuss the operating practices and common problems associated to plug valves
+Compare plug valve maintenance standards to Worker and Maintennace Technical Fundamentals through group discussions
+Explain the theory of operation of a typical mechanical seal.
+Disassemble, inspect, and reassemble a typical mechanical seal.
+Describe the purpose and installation of Lockwire and Lock Plates.
+Given a flange mock-up and all required tools, install lockwire and lockplates in accordance with specified procedures.
+Upon completion, maintenance personnel will have an understanding of the processes for performing reactor disassembly and assembly, be able to identify major components and describe their function, and identify activities that are performed by the various maintenance disciplines.  
+Identify the actions required to be performed by Electrical personnel during reactor disassembly and assembly.
+Identify the actions required to be performed by Instrument Controls personnel during reactor disassembly and assembly.
+
+State what the functions the following components perform:
+Pit seal
+Missile shield 
+Reactor head O-rings
+Transfer canal blind flange
+Head mirror insulation
+ICI Grayloc flanges
+Reactor head studs
+Guide studs
+Stud hole plugs
+Heated Junction Thermocouple (HJTC) probe
+Upper guide structure (UGS)
+Thimble support plate (TSP)
+
+Identify the INPO “Must Know OE” and describe how they apply to reactor disassembly and assembly. 
+
+students shall recognize best practices for flange make-up, gasket compression and torquing methods 
+Identify common issues with flanged joint makeup
+Summarize creep and relaxation and how it affects the sealing capabilities of a mechanical joint
+Describe the proper methods used to torque a mechanical joint
+Type #1 CFC License
+Type #2 CFC License
+Type #3 CFC License
+Describe how to enter the QUIKLOOK 3 Software.
+Explain the Redirector Screen.
+Define Primary name, Work Order #, Secondary name, Description box, and their purpose.
+Describe how to Configure Channels.
+Describe Status, Name, Units, and Description boxes and there purpose.
+Describe 4-Wire Strain Gage, Differential Voltage, and Single ended Voltage.
+Describe Range as it relates to 4-Wire Strain Gage, Differential Voltage, and Single ended Voltage.
+Describe Sensitivity.
+Describe the use of the QSS tab to determine Torque and Thrust.
+Describe the C-Clamp Tab.
+Describe how to calibrate a sensor.
+Explain the Save Valve command and file structure.
+Describe how to use the Trigger Mode.
+Explain how to use the help file.
+Describe how to mark MOV traces.
+Demonstrate and practice setup of MOV Diagnostic Test Equipment.
+Describe the capability and use of the QUIKLOOK 3 system.
+Describe the basic function, performance, and startup of the QUIKLOOK 3 System components (hardware).
+Describe how to enter the QUIKLOOK 3 Software.
+Describe the Opening Screen.
+Describe the FlowScanner Tree.
+Describe the nine menus options for an AOV Configuration / Acquisition.
+Describe Main Configuration Screen.
+Describe how to Configure Channels.
+Describe How to Setup Sensor.
+Explain TEDS.
+Describe the use of the QSS tab to determine Torque and Thrust Sensitivity.
+Describe the use of the Rotary tab to determine Sensitivity for string pots used on a rotary valve.
+Describe the use of the C-Clamp tab to determine Sensitivity for C-Clamps.
+Describe Over Ranging.
+Describe Advanced Settings.
+Describe Test Setups.
+Describe Valve Properties.
+Explain the Load Valve / Save Valve command and File Structure.
+Explain the Default Valve command.
+Explain how to use the help file.
+Explain Monitor Functions.
+Explain Test Parameters.
+Explain Define Graph.
+Explain Calibration Mode.
+Describe how to Mark Static End Points.
+Describe how to start a test.
+Describe how to save a test.
+Describe Explain View Traces.
+Demonstrate the ability to retrieve existing test data.
+Explain the Test Data panel and its associated tabs.
+Explain the Explore Test Panel.
+Explain the View Analysis Panel.
+Explain the Display Traces Panel.
+Explain the time based plot and menu options available.
+Discuss the Trace menu options for plotting traces.
+Discuss Analysis menu options for plotting traces.
+Demonstrate the ability to zoom in on a plot.
+Demonstrate the ability to mark relevant events.
+Review standard equipment used with QUIKLOOK.
+Start up system.
+Create a configuration file.
+Acquire Data.
+Review Test Data.
+Inspect and Maintain Air Compressor
+From memory, the student shall be able to define the purpose of an air compressor in accordance industry standards.
+From memory, the student will be able to classify different types of air compressors in accordance with vendor technical manuals.
+From memory, the student shall be able to explain the theory of operation of an air compressor in accordance with vendor technical manuals.
+Given an air compressor diagram, the student shall be able to identify the major parts of an air compressor in accordance with industry standards.
+The student will be able to perform laser alignment using Optalign® Plus on a pump/motor assembly in accordance with station procedures to acceptable industry standards.
+Explain the purpose of performing shaft alignment.
+Explain how and where thermal growth occurs and how alignment calculations can be affected.
+Explain how to identify and correct for soft foot.
+Explain the four alignment profiles used by the Optalign®, to describe conditions at the coupling centers.
+Specify misalignment targets and their purpose when entered into the Optalign® Plus equipment.
+Remove and Install the Fuel Transfer Tube Blind Flange
+Remove and Install the Missile Shield
+Disassemble, Inspect and Assemble the CET Connector
+Remove and Install the Reactor Head O-Ring
+Disassemble, Inspect and Assemble the HJTC's
+Detension and Tension the Reactor Head Studs
+Remove and Install the Reactor Head
+Remove and Install the Upper Internals
+Describe the basic operation of the following test equipment:
+Volt-Ohm Meter
+Clamp-on Amp Meter
+BM-21 Megger
+Phase Rotation Meter
+
+List the safety precautions associated with using test equipment.
+Given Various scenarios; demonstrate the proper operation of the following pieces of test equipment:
+Volt-ohn Meter
+Clamp-on Amp Meter
+BM-21 Megger
+Phase Rotation Meter
+Inspect and Maintain Hydraulic Snubbers
+Lubricate Valves
+(CT) Inspect and Maintain Air Operated Valves
+Inspect and Maintain Rigid Drive Couplings
+Inspect and Maintain Flexible Drive Couplings
+(CT) Inspect and Maintain Multistage Horizontal Split Case Pumps
+The student will be able to state the purpose of the following test equipment used by Mechanical Maintenance:
+Valve
+Hydrostatic
+Pump
+Insulator Kit
+Wld
+HVAC
+The student will be able to identify where a specific test criteria is identified.
+The student will be able to describe the basic operation of a steam turbine.
+The student understands their role in leak mitigation strategies.
+(CT) Perform Laser Alignments using Optalign® Plus
+(CT) Inspect and Maintain Reciprocating Type Air Compressor
+Operate Mobile Crane
+(CT) Perform Routine Rigging Lifts (Rigger Level 1)
+(CT) Perform Heavy Rigging Evolutions (Rigger Level 2)
+(CT) Inspect and Maintain Mechanical Snubbers 
+(CT) Inspect and Maintain Hydraulic Snubbers
+(CT) Test Mechanical Snubbers
+(CT) Test Hydraulic Snubbers
+(CT) Install and Remove Hydraulic Snubber
+(CT) Inspect and Maintain Globe Valves
+(CT) Inspect and Maintain Gate Valves
+(CT) Inspect and Maintain Check Valves
+(CT) Inspect and Maintain Diaphragm Valves
+(CT) Inspect and Maintain Plug Valves
+(CT) Inspect and Maintain Ball Valves
+(CT) Inspect and Maintain Butterfly Valves
+(CT) Maintain Valve Packing
+(CT) Inspect and Maintain Safety/Relief Valves
+(CT) Inspect and Maintain Target Rock Solenoid Valve Internals
+(CT) Perform Analysis of MOV Diagnostic Dynamic Test
+(CT) Perform Analysis of MOV Diagnostic Static Test
+(CT) Inspect and Maintain AOV's using Diagnostic Equipment
+(CT) Inspect and Maintain Main Steam Isolation Valves (MSIV)
+(CT) Maintain Mechanical Seals
+(CT) Inspect and Maintain Screw Pumps
+(CT) Inspect and Maintain Single and Multistage Vertical Volute Pumps
+(CT) Inspect and Maintain Multistage Horizontal Split Case Pumps
+(CT) Inspect and Maintain Vacuum Pumps
+(CT) Inspect and Maintain Axial Piston Pumps
+(CT) Inspect and Maintain Controlled Volume Pumps
+(CT) Inspect and Maintain Diaphragm Pumps (Cyclo-Phram)
+(CT) Inspect and Maintain Rotary Plunger Pumps
+(CT) Inspect and Maintain Unit 2 RCP Mechanical Seal
+(CT) Inspect and Maintain Unit 2 Emergency Diesel Generator
+(CT) Inspect and Maintain Unit 3 Emergency Diesel Generator
+(CT) Inspect and Maintain Station Blackout Diesel Generator
+(CT) Operate Mobile Crane
+(CT) Operate Unit 1 Reactor Building Crane
+(CT) Operate Unit 1 Turbine Building Crane
+(CT) Operate Unit 2 Polar Crane
+(CT) Operate Unit 2 Cask Crane
+(CT) Operate Unit 2 Turbine Building Crane
+(CT) Operate Unit 3 Polar Crane
+(CT) Operate Unit 3 Cask Crane
+(CT) Operate Unit 3 Turbine Building Crane
+(CT) Operate Pendant Operated Cranes
+(CT) Operate Unit 2 Containment Jib Crane
+(CT) MP2 Upper Guide Structure Removal and Installation
+(CT) Disassemble and Assemble Unit 2 ICI Grayloc
+(CT) Reactor Vessel Closure Stud Detensioning and Tensioning (Units 2 and 3)
+(CT) Installation and Removal of Reactor Head Studs
+(CT) Installation and Removal of Reactor Head Guide Studs
+(CT) Transfer Canal Blind Flange Removal and Installation (Units 2 and 3)
+(CT) Reactor Head Movement (Units 2 and 3)
+(CT) Reactor Head O-rings (Units 2 and 3)
+(CT) HJTC Disassembly and Assembly (Units 2 and 3)
+(CT) Removal and Installation of the Unit 2 Core Support Barrel or Unit 3 Lower Internals
+(CT) Maintain and Operate S/G and Pressurizer Manway Tensioner
+(CT) Operate the Unit 3 Personnel Hatch
+The student will be able to elaborate on the origins of procedural guidance for and use Fleet Lifting and Material Handling procedures and equipment.
+
+Given various slings, the student will be able to analyze their design and applicability in accordance with ASME B30.9, Slings.
+Given various hooks, the student will be able to analyze their design and applicability in accordance with ASME B30.10, Hooks.
+
+Given various beam trolleys, the student will be able to analyze their design and applicability in accordance with ASME B30.11, Monorails and Underhung Cranes.
+Given various below the hook lifting devices, the student will be able to analyze their design and applicability in accordance with ASME B30.20, Below-the-Hook Lifting Devices.
+Given various rigging hardware, the student will be able to analyze their design and applicability in accordance with ASME B30.26, Rigging Hardware.
+
+Given various rigging and material handling equipment, the student will be able to inspect, install, and use the equipment in accordance with station procedures and ASME codes.
+
+Given a computer and DocTop, the student will be able to verify revisions using procedure numbers.
+Given a computer and DocTop, the student will be able to locate plant drawings using provided print numbers.
+Given a computer and DocTop, the student will be able to find historical work orders and CR's.
+Given a brief review the student will have an understanding of recent Operating Experience associated with Steam Driven Auxiliary Feed Pump Turbine control systems.
+ the student will be able to identify the parts of a pressure compensator from memory.
+ the student will be able to explain the purpose of a pressure compensator from memory.
+ the student will be able to explain the operation of a pressure compensator from memory.
+ the student will be able to describe how to replace and adjust a pressure compensator.
+ the student will be able to describe the purpose of taper pins from memory.
+ the student will be able to describe why taper pins have to be match marked during disassembly.
+ the student will be able to describe the basic operation of creating a taper in an open or blind hole.
+Given a typical Target Rock solenoid operated relief valve, the student will be able to explain its operation in accordance with vendor technical information from memory.
+The student will be able to explain how Target Rock solenoid operated relief valves are held shut using a typical on/off Target Rock valve drawing in accordance with vendor technical information.
+The student will be able to explain the theory of operation of a Target Rock solenoid operated relief valve using a typical on/off Target Rock valve drawing  in accordance with vendor technical inforamtion.
+The student will be able to recommend corrective actions for a typical on/off Target Rock valve during different given scenarios in accordance with the vendor technical information.
+Given a lubrication related procedure, the student will demonstrate the necessary knowledge to draw an oil sample, select correct lubricant, and perform lubrication additions without error. 
+
+Using the auxiliary turbine feed pump turbine mockup in the lab, the student shall fabricate a typical oil sample tube, demonstrate taking an oil sample from the governor side bearing of this QA component, maintaining cleanliness, and inspect the sample for general conditions using CBM 103 procedure with out error.
+
+Given a selection of lubricants, a lubrication technique sheet for a QA pump, and accompanied by a peer, the students shall select, transfer, and verify lubricant using station practice and procedure MP 2701F or MP 3710AA correctly.
+
+Using selected lubricant and a pump with a Trico bubbler in the lab, the students will inspect and add lubricant to a Trico bubbler using the appropriate sections for of MP 2701F or MP 3710AA procedure correctly.
+
+Using a given situation the student shall perform an inspection of the component and surrounding area for issues that could affect component health using MP 2701F or MP3710AA procedures and point out what is acceptable and not acceptable with a minimum of 80% accuracy.
+
+Upon completion of this lesson, the student will be to identify safety valve testing requirements including:
+personnel safety
+plant safety requirements
+test media
+Upon completion of this lesson, the student will be able to recall the responsibilities of the test engineer, phone talker, vendor, and maintenance personnel, IAW SP 2730B, Main Steam Safety Valve Testing.
+Upon completion of this lesson, the student will be able to describe the procedural requirements associated with Main Steam Safety Valve Simmer Testing IAW SP 2730B, Main Steam Safety Valve Testing.
+
+Given the Rotalign® Touch equipment and forms to document, the student will be able to perform an alignment in accordance with C MP 794 Horizontal Shaft Alignment Using Laser Alignment Equipment.
+From memory, the student will be able explain the purpose of performing shaft alignments in accordance with C MP 794.
+Given , the student will be able to explain the basic process for performing a laser alignment without error.
+From memory, the student will be able to explain how and where thermal growth occurs and how alignment calculations can be affected in accordance with C MP 794.
+From memory, the student will be able to describe the material used for shims and the term shim condition IAW C MP 794.
+Given Rotalign Touch equipment or a drawing, the student will be able to identify Rotalign® Touch components and explain their use IAW C MP 794.
+Given a diagram, the student will be able to explain how to identify and correct for soft foot IAW C MP 794.
+Given a diagram, the student will be able to explain the four alignment profiles used by the Rotalign® Touch to describe conditions at the coupling centers IAW C MP 794.
+Given C MP 794, the student will be able to specify misalignment targets and their purpose when entered into the Rotalign® Touch equipment IAW C MP 794.
+Upon completion of this training, the student will be able to identify the major components within the containment structure.
+Upon completion of this training, the student will be able to describe the purpose of the reactor vessel and its internal components.
+Upon completion of this training, the student will be able to identify reactor disassembly preparations in accordance with MP 2704AC. 
+MP2 Upper Guide Structure Removal and Installation
+Disassemble and Assemble Unit 2 ICI Grayloc
+Reactor Vessel Closure Stud Detensioning and Tensioning (Units 2 and 3)
+Installation and Removal of Reactor Head Studs
+Installation and Removal of Reactor Head Guide Studs
+Transfer Canal Blind Flange Removal and Installation (Units 2 and 3)
+Reactor Head Movement (Units 2 and 3)
+Reactor Head O-rings (Units 2 and 3)
+HJTC Disassembly and Assembly (Units 2 and 3)
+Upon completion of this lesson, the student will be  able to describe the removal process of the transfer tube bank flange, in accordance with MP 2704S3.
+Upon completion of this lesson, the student will be able to describe the process of unlatching CEA extension shafts, in accordance with OPS-FH 220.
+Upon completion of this lesson, the student will be able to describe the process of removing the reactor vessel head, in accordance with MP 2704AA, including the following:
+ICI Flange Work
+Stud De-tensioning
+Stud Removal
+Guide Stud Installation
+HJTC Probe Removal
+Head Lift
+Reactor Vessel Head Movement
+Upon completion of this lesson, the student will be able to describe the process of raising the ICI support plate, in accordance with MP2704AA.
+Upon completion of this lesson, the student will be able to describe the process of removing the upper guide structure, in accordance with MP2704AA.
+Reactor Head O-rings (Units 2 and 3)
+Clean Unit 2 reactor vessel flange.
+Upon completion of this training, the student will be able to identify reactor assembly preparations in accordance with MP 2704AC. 
+MP2 Upper Guide Structure Removal and Installation
+Disassemble and Assemble Unit 2 ICI Grayloc
+Reactor Vessel Closure Stud Detensioning and Tensioning (Units 2 and 3)
+Installation and Removal of Reactor Head Studs
+Installation and Removal of Reactor Head Guide Studs
+Transfer Canal Blind Flange Removal and Installation (Units 2 and 3)
+Reactor Head Movement (Units 2 and 3)
+Reactor Head O-rings (Units 2 and 3)
+HJTC Disassembly and Assembly (Units 2 and 3)
+Upon completion of this lesson, the student will be able to describe the installation process of the transfer tube bank flange, in accordance with MP 2704S3.
+Upon completion of this lesson, the student will be able to describe the process of installing the reactor vessel head, in accordance with MP 2704AA, including the following:
+ICI Flange Work
+Stud Tensioning
+Stud Installation
+Guide Stud Removal
+HJTC Probe Installation
+Head Lift
+Reactor Vessel Head Movement
+Upon completion of this lesson, the student will be able to describe the process of lowering the ICI support plate, in accordance with MP2704AA.
+Upon completion of this lesson, the student will be able to describe the process of installing the upper guide structure, in accordance with MP2704AA.
+Remove and install Unit 2 missile shield
+Remove and install Unit 2 CEDM ventilation ductwork.
+Remove and install the Unit 2 reactor head vent line.
+Upon completion of this training, the student will be able to identify reactor assembly completion activities in accordance with MP 2704AC. 
+Upon completion of this training the student will be able to identify and describe the methods used to remove the HJTC in accordance with MP 2704AA.
+Upon completion of this training the student will be able to describe the inspection of sealing surfaces of HJTC's in accordance with MP 2704AA.
+Upon completion of this training the student will be able to identify and describe the method to install the HJTC in accordance with MP 2704AA.
+
+Upon completion of this training the student will be able to identify and describe the methods used to remove the ICI's in accordance with MP 2704E.
+Upon completion of this training the student will be able to describe the inspection of sealing surfaces of ICI's in accordance with MP 2704E.
+Upon completion of this training the student will be able to identify and describe the method to install the ICI's in accordance with MP 2704E.
+Given a mock up of the Unit 2 pressurizer heater, the student will remove, prepare, and install a Unit 2 pressurizer heater in accordance with applicable steps of MP 2706C, Unit 2 Pressurizer Heater Replacement and 53203255967 weld plan.
+Inspect and Maintain Spring Loaded Hangers
+Inspect and Maintain Rigid Pipe Supports
+Inspect and Maintain Rupture Disc
+Inspect and Maintain Expansion Joints
+Fabricate and Install a Piping System
+Fabricate and Install Plastic Pipe
+Fabricate and Install Fibercast Pipe
+Fabricate and Install Tubing Systems with Noncompression Type Fittings
+Inspect and Maintain Needle Valves
+Inspect and Maintain Backflow Preventers
+Inspect and Maintain Feed Water Isolation Valve (FWIV)
+Inspect and Maintain Flex Pumps
+Perform balancing operation of rotating equipment using balancing equipment
+Inspect and Maintain Steam Traps
+Inspect and Maintain Filters
+Inspect and Maintain Strainers
+Inspect and Maintain Travelling Screens
+Inspect and Maintain Ion Exchangers
+Inspect and Maintain Turbine and Associated Equipment
+Inspect and Maintain Heat Exchangers
+Operate the Unit 3 Spent Fuel Pool Crane to Move Fuel Assemblies
+Inspect and Maintain Heating Boilers
+Inspect and Maintain Ventilation Equipment
+Inspect and Maintain Ventilation Filtration Equipment
+Inspect and Maintain Turbine Generator and Associated Equipment
+Install and Maintain Steam Generator Nozzle Dams
+Operate the Unit 2 Personnel Hatch
+Perform Core Boring
+Inspect and Maintain Sight Glasses
+Inspect and Maintain Fire Fighting Equipment
+Inspect and Maintain Penetration Seals
+(CT) Inspect and Maintain Spring Loaded Hangers
+(CT) Perform balancing operation of rotating equipment using balancing equipment
+Operate Unit 2 Spent Fuel Pool Crane to Move Fuel Assemblies
+Perform leak sealant injection into building concrete structure
+Upon completion of this training session, the student will have a fundamental knowledge of the maintenance and operating characteristics of the EHC system.
+Upon completion of this lesson, the student will be able to explain how to perform and what to expect during EHC system start up in accordance with OP 2323B and OP 3323C.
+Upon completion of this lesson, the student will be able to explain how the EHC pressure compensator works and how to adjust pump discharge pressure in accordance with C MP 709.
+(CT) Adjust Pressure Compensators
+Upon completion of this lesson, the student will be able to explain how the EHC minimum volume stop assembly works and how to adjust it in accordance with C MP 709.
+Upon completion of this lesson, the student will be able to describe the sequence of events that occur during an EHC pump shift in accordance with station procedures.
+Given a training mock-up, the student will be able to maintain UltraFlexx pump couplings to an acceptable working condition in accordance with Station/Vendor procedures.
+From memory, the student will be able to explain the method to install the UltraFlexx Shaft Coupling with Anderson Clamping Hubs in accordance with station/vendor procedures. 
+From memory, the student will be able to explain the method to remove the UltraFlexx Shaft Coupling with Anderson Hubs in accordance with station/vendor procedures.
+Given an UltraFlexx coupling and necessary tools, the student will be able to remove the coupling, inspect, and reinstall the coupling in accordance with station/vendor procedures.
+From memory, the student will be able to describe the events and issues surrounding Unit 2 M2P1A associated with feed pump coupling failure in accordance with CA781229.
+From memory, set up a digital multi meter and take resistance data on flange mock-ups in the lab using C MP 715E2.
+From memory, set up the Model 601 Above Ground Insulation Checker and perform insulation checks on flange mock-ups using C MP 715E2.
+Given a set of flanges, determine if they pass or fail insulation testing using C MP 715E2.
+Given a set of flanges, troubleshoot failures using both meters and make accurate recommendations for failure corrections using C MP 715E2.
+Upon completion the student will understand the methods and tooling used to maintain the health of our piping systems.
+Given the necessary tools and equipment, the student will be able to maintain a bolted connection utilizing HydraNuts in accordance with C MP 704.
+Given the necessary tools and equipment, the student will be able to assemble a bolted connection utilizing HydraNuts in accordance with C MP 704.
+Given the necessary tools and equipment, the student will be able to disassemble a bolted connection utilizing HydraNuts in accordance with C MP 704.
+Given an object <200 lbs., state what size building steel beam can be used  as a rigging point in accordance with MA-AA-101, Lifting and Material Handling.
+Given an object ≥200 lbs. and ≤1000 lbs., identify what size building steel beam can be used  as a rigging point in accordance with MA-AA-101, Lifting and Material Handling.
+Given an object >1000 lbs. and ≤2000 lbs., identify what size building steel beam can be used  as a rigging point in accordance with MA-AA-101, Lifting and Material Handling.
+Given an object ≤2000 lbs., identify what size box beam and building steel beam can be used  as a rigging point in accordance with MA-AA-101, Lifting and Material Handling.
+Prior to Unit 3 RCP Seal Replacement and given the appropriate procedure(s), the student will be able to describe the work activities being performed without error. 
+
+Given a drawing of a hot water control system, describe the components and typical operation of a Transmitter, Controller, and Positioner for a Pneumatic control valve correctly.
+From memory, describe the terms Fluid Power, Pascal’s Law, and Actuator in relation to Pneumatic control valves accurately.
+From memory explain the basic theory which causes Pneumatic control valves to change positions without error.
+From memory, describe the function and operation of Quick Release/Exhaust, Air Lock-Up valves, and Volume Boosters used with Pneumatic control valves accurately.
+Given Pneumatic control valve trim drawings, explain reasons for, different trim designs and how these designs effect system flow correctly.
+Given a valve and actuator or a drawing, identify a reverse acting actuator and a direct acting actuator and interpret the Fail position to the valve without error.
+Given a station procedure or vendor technical manual, maintain Direct Acting Pneumatic Control Valve Actuator, in accordance with procedure or vendor technical manual, acceptance criteria without error.
+From memory, describe the purpose of Direct Acting Pneumatic Control Valve Actuator, without error.
+From memory explain the basic theory which causes Direct Acting Pneumatic Control Valve Actuators to change positions, what the fail position is, and where the stored energy is correctly.
+Given a model number, picture, or drawing of a Pneumatic Actuator, identify the action or movement of a typical actuator correctly.
+Given a drawing, parts, or a cut-out of a Direct Acting Pneumatic Control Valve Actuator, name the internal parts and their functions correctly.
+Given a Fisher, Masoneilan procedure, or VTM, disassemble, inspect, and reassemble a Direct Acting Air Actuator without error.
+Given a station procedure or vendor technical manual, maintain Reverse Acting Pneumatic Control Valve Actuator, in accordance with procedure or vendor technical manual, acceptance criteria without error.
+From memory, describe the purpose of Reverse Acting Pneumatic Control Valve Actuator, without error.
+From memory explain the basic theory which causes Reverse Acting Pneumatic Control Valve Actuators to change positions, what the fail position is, and where the stored energy is correctly.
+Given a model number, picture, or drawing of a Pneumatic Actuator, identify the action or movement of a typical actuator correctly.
+Given a drawing, parts, or a cut-out of a Reverse Acting Pneumatic Control Valve Actuator, name the internal parts and their functions correctly.
+Given Fisher, Masoneilan procedure, or VTM, disassemble, inspect, and reassemble a Reverse Acting Air Actuator without error.
+Given a station procedure or vendor technical manual, maintain Spring and Piston Actuators, in accordance with procedure or vendor technical manual, acceptance criteria without error.
+From memory, describe the purpose of Spring and Piston Actuators, without error.
+From memory explain the basic theory which causes Spring and Piston Actuators to change positions, what the fail position is, and where the stored energy is correctly.
+Given a drawing, parts, or a cut-out of a Spring and Piston Actuator, name the internal parts and their functions correctly.
+Given Spring and Piston procedure, or VTM, disassemble, inspect, and reassemble a Reverse acting air actuator without error.
+Given a station procedure or vendor technical manual, setup Pneumatic Control Valve Actuators for plant use, in accordance with procedure or vendor technical manual, acceptance criteria without error.
+From memory, recall which documents contain station specific Pneumatic Control Valve Actuator setup information, without error.
+Given a procedure, vendor technical manual, or data sheet for a Pneumatic Actuator, adjust and set a pneumatic actuator to perform as required without error.
+Describe Pump Classifications, Terms, and Operational Characteristics of Kinetic (Centrifugal) and Positive Displacement Pumps
+Perform Laser Alignments
+Maintain Pump Packing
+Inspect and Maintain Globe Valves
+Inspect and Maintain Gate Valves
+Inspect and Maintain Check Valves
+Inspect and Maintain Diaphragm Valves
+Inspect and Maintain Plug Valves
+Inspect and Maintain Ball Valves
+Inspect and Maintain Butterfly Valves
+Inspect and Maintain Air Operated Valves
+Inspect and Maintain Air Operated Valves
+Inspect and Maintain Air Operated Valves
+Inspect and Maintain Air Operated Valves
+Inspect and Maintain Air Operated Valves
+Inspect and Maintain AOV's using Diagnostic Equipment
+Inspect and Maintain AOV's using Diagnostic Equipment
+Perform Laser Alignments
+Inspect and Maintain Penetration Seals
+Given a S/G and PZR manway tensioner rig and mock-up, the student will be able to evaluate the equipment performance to ensure that the equipment provides the required tensioniung of equipment in accordance with station procedures.
+(CT) Maintain and Operate S/G and Pressurizer Manway Tensioner
+Operate self-propelled industrial transport trailer
+Setup and Operate Lathe
+Setup and Operate Milling Machine
+Setup and Operate Surface Grinder
+Setup and Operate Basic Shop Equipment
+Setup and Operate A Pipe Threading Machine
+Perform Welding Activities
+Inspect and Maintain Spring Loaded Hangers
+Inspect and Maintain Rigid Pipe Supports
+Inspect and Maintain Rupture Disc
+Inspect and Maintain Expansion Joints
+Fabricate and Install a Piping System
+Fabricate and Install Plastic Pipe
+Fabricate and Install Fibercast Pipe
+Fabricate and Install Tubing Systems with Noncompression Type Fittings
+Perform Flange Insulator Testing
+Inspect and Maintain Backflow Preventers
+Perform balancing operation of rotating equipment using balancing equipment
+Inspect and Maintain Steam Traps
+Inspect and Maintain Filters
+Inspect and Maintain Strainers
+Inspect and Maintain Travelling Screens
+Inspect and Maintain Ion Exchangers
+Inspect and Maintain Turbine and Associated Equipment
+Inspect and Maintain Heat Exchangers
+Inspect and Maintain Heating Boilers
+Inspect and Maintain Ventilation Equipment
+Inspect and Maintain Ventilation Filtration Equipment
+Inspect and Maintain Turbine Generator and Associated Equipment
+Install and Maintain Steam Generator Nozzle Dams
+Operate self-propelled industrial transport trailer
+Inspect and Maintain Sight Glasses
+Build/Dismantle Scaffolding or Work Platforms
+(CT) Inspect and Maintain Unit 3 RCP Mechanical Seal
+(CT) Inspect and Maintain Unit 3 RCP Mechanical Seal
+(CT) Inspect and Maintain Flexible Drive Couplings
+Given a drawing or mock-up the student will be able to inspect an expansion joint in accordance with industry standards and station procedures.
+Given a drawing or mock-up the student will be able to identify the type of expansion joint and inspection criteria in accordance with industry standards and station procedures.
+Given various rubber expansion joint terms the student will be able to define the terms regarding rubber expansion joints in accordance with industry standards and station procedures.
+Given various metallic expansion joint terms the student will be able to define the terms regarding metallic expansion joints in accordance with industry standards and station procedures.
+Given a drawing or mock-up the student will be able to identify inspection criteria failures and their cause in accordance with industry standards and station procedures.
+Given a drawing or mock-up the student will be able to describe the installation and removal process for metal and rubber expansion joints in accordance with industry standards and station procedures.
+(CT) Inspect and Maintain Centrifugal Air Conditioning Equipment (Chillers)
+Upon completion of this lesson the trainee should be able to describe the Refrigeration Cycle for the 19FA Chiller from low pressure vapor to low pressure liquid.
+Define the following terms as stated in the handout:
+Compressor
+Guide Vane Actuator
+Guide Vanes
+Cooler
+Condenser
+Thermal Economizer
+Flash Economizer
+High Side Float
+Economizer Gas Damper
+Low Side Float
+Automatic Hot Gas Bypass Valve
+Temperature Transposer
+Surging
+Given the leaving chiller water temperature and assuming that the proper water flow is being achieved through the cooler, calculate the suction pressure of the 19FA chiller, using refrigerant 12.
+Given the leaving condenser water temperature and assuming that there is proper water flow through the condenser, calculate the head pressure of the 19FA chiller, using refrigerant 12.
+Given a drawing of the vane actuator and the vane crank arm, distinguish when the guide vanes are fully open and then fully closed.
+Describe the location of the thermal economizer and explain its operating principles in regards to energy savings.
+Explain why the condenser liquid level sensor line extends up approximately one-fourth of the way up on the condenser instead of on the bottom of the condenser.
+Given a flash economizer pressure and a cooler pressure, calculate the position of the economizer gas damper valve. Also explain where the refrigerant gas is going after it passes through this damper and how it saves energy.
+Give the location where the automatic hot gas bypass feeds its refrigerant.
+Explain why the refrigerant is fed in at this location and how the automatic hot gas bypass keeps the compressor from overheating.
+Explain where the liquid refrigerant comes from to cool the compressor and where the excess refrigerant goeas to after it is sprayed over the motor.
+On the 19FA chiller identify the following:
+Compressor first stage
+Compressor second stage
+Compressor motor
+Discharge line
+Condensor
+Thermal economizer
+Condensor water inlet and outlet
+Chiller water inlet and outlet
+Condensor liquid level sensor line
+High side float valve chamber
+High side float chamber
+Flash economizer
+Flash gas chamber
+Economizer gas damper
+Low side float valve chamber
+Cooler
+Compressor motor cooling liquid
+Compressor motor cooling liquid drain
+Compressor motor cooling vapor relief
+Upon completion of this lesson, when given certain operation conditions of the 19FA Chiller, the trainee will be able to compare these conditions to normal operating conditions and to predict the cause of the deficiency in the 19FA Chiller (if there is a deficiency).
+
+Define the following terms:
+Discharge Gas Superheat
+Subcooling
+LTD of Condenser
+LTD of Subcooler
+LTD of Cooler
+DT (Delta T) of Condenser
+DT (Delta T) of Cooler
+DP (Delta P) of Condenser
+DP (Delta P) of Cooler
+
+Given various 19FA chiller drawings, analyze the problem(s) with each from the following list:
+A.	Non-condensibles
+B.	Dirty condenser
+C.	Dirty cooler
+D.	Low condenser water flow
+E.	Low chilled water flow
+F.	Condenser divider plate not in tact
+G.	Cooler divider plate not in tact
+H.	Low refrigerant charge
+I. 	Overcharge of refrigerant
+J.	Low load 
+
+List the symptoms that will be present for the following chiller problems:
+A.	Non-condensibles
+B.	Dirty condenser
+C.	Dirty cooler
+D.	Low condenser water flow
+E.	Low chilled water flow
+F.	Condenser divider plate not in tact
+G.	Cooler divider plate not in tact
+H.	Low refrigerant charge
+I.	Overcharge of refrigerant
+J.	Low load
+Point out the physical location of the following data points:
+Cooler (Chilled) Leaving Water Temperature  
+Cooler (Chilled) Entering Water Temperature
+Cooler Refrigerant (Saturated/Boiling) Temperature
+Cooler Gas Temperature 
+Condenser Leaving Water Temperature
+Condenser Entering Water Temperature
+Discharge Gas Temperature
+Condenser (Saturated/Condensing) Refrigerant Temperature
+Cooler Pressure
+Condenser Pressure
+Oil Pressure (Differential)
+Oil Sump Temperature
+Describe the position of the vane crank arm on the 19FA chiller when the guide vanes are fully open and then fully closed.
+List check points that should be observed during the 19FA chillers first restart after a yearly PM.
+Upon completion of this lesson the trainee should be able to describe the 19FA chiller lubrication cycle in detail from pump suction to oil return to the sump.
+
+Upon completion of this lesson the trainee should be able to explain the purpose of the oil cooler.  
+Upon completion of this lesson the trainee should be able to describe the purpose and operation of the 19FA pumpout unit and its associated equipment.
+Upon completion of this lesson the trainee should be able to state the purpose of each of the following components:
+Pumpout compressor
+Pumpout condensor
+Storage tanks
+Interconnecting tubing from the pumpout unit to the chiller package and to the storage tanks
+Upon completion of this lesson the trainee should be able to list the three functions of the pumpout system.
+Upon completion of this lesson the trainee should be able to locate valves 1-11 on the 19FA chiller associated with the pumpout system.
+Upon completion of this lesson the trainee should be able to locate the service valves on the interconnecting tubing which allows for refrigerant charging.
+Upon completion of this lesson the trainee should be able to locate the valve on the storage tanks that can be used to detect liquid refrigerant.
+Upon completion of this lesson the trainee should be able to explain the purpose of the "dipstick tube" located inside the storage tank attached to valve #9.
+Given that there is refrigerant in the storage tanks, the trainee should be able to explain the easiest and simplest method of adding refrigerant to an operating machine.
+Upon completion of this lesson the trainee should be able to list the devices that are required to run the pumpout compressor.
+Upon completion of this lesson the trainee should be able to explain why during certain portions of the pumpout cycle, the condensor and cooler water must be flowing.
+Upon completion of this lesson the trainee should be able to list the indicators to observe when deciding to add or remove refrigerant charge to a 19FA chiller.
+Upon completion of this lesson the trainee should be able to describe the two main areas where oil is discharged for lubrication purposes.
+Upon completion of this lesson the trainee should be able to describe the operating and shutdown levels of oil that should be present in the oil sump sight glasses.
+
+Upon completion of this lesson the trainee should be able to list the temperature of the oil during machine shutdown and operation, and also explain why the oil is kept at this temperature during shutdown conditions.
+Upon completion of this lesson the trainee should be able to list the device responsible for shutting the compressor down when the thrust and journal bearings become too hot.
+Upon completion of this lesson the trainee should be able to explain how the transmission assembly ensures itself of lubrication during a coastdown with an inoperable oil pump.
+Upon completion of this lesson the trainee should be able to explain why the oil pump continues to run for forty one seconds after the compressor motor has been deenergized.
+Upon completion of this lesson the trainee should be able to list the safety device that deals directly with a loss of oil pressure.
+Upon completion of this lesson the trainee should be able to describe how to adjust the oil sump temperature during operating and shutdown conditions.
+Upon completion of this lesson the trainee should be able to discuss oil removal and recharge, oil filter removal and reinstallation, and the number of cartridges per filter canister.
+Upon completion of this lesson the trainee should be able to explain the importance of spring location inside the oil filter canister.
+
+Upon completion of this lesson the trainee should be able to explain when a terminal can be replaced versus replacing the oil pump assembly, in regard to the oil pump assembly.
+Test MOVs using Diagnostic Test Equipment
+(CT) Test MOVs using Diagnostic Test Equipment
+(CT) Align Pumps Manually
+Given C MP 710B and the vertical shaft training mock-up, the student shall be able to align the equipment to the specifications in accordance with C MP 710B, Vertical Shaft Alignment.
+State the requirements, responsibilities, and equipment needed to satisfy emergency containment closure in accordance with station procedures.
+Recite the elements and departments responsible to ensure these elements exist, for emergency containment closure, according to AOP 2577 and MP 2704S1.
+Recall the RWP, dose & dose rates, and where the self-reading dosimeters (SRDs) will be located for emergency containment closure according MP 2704S1, RPM 5.1.4, and the maintenance checklist.
+From memory state personnel responsibilities, equipment, and location, that must be verified as “ready to close containment” In accordance with MP 2704S1 and the maintenance checklist.
+From memory describe the Unit 3 roles and responsibilities for maintenance according to RPM 5.1.4,  SP 3712ZA, and OP 3312A?
+
+Given MP 3740NX2, seal test data, and seal failure disassembly pictures, the student will evaluate the cause of seal failure and identify where it would be discovered during seal testing in accordance with MP 3740NX2.
+From memory, the student will be able to describe the purpose of pipe hangers in accordance with plant procedures and vendor technical manuals.
+From memory, the student will be able to describe various types of pipe hangers in accordance with plant procedures and vendor technical manuals.
+Given a drawing or mock-up, the student will be able to identify the major components of a pipe hanger in accordance with plant procedures and vendor technical manuals.
+Given a drawing or mock-up, the student will be able to identify the major componenets of a spring-loaded hanger in accordance with plant procedures and vendor technical manuals.
+Given a drawing or mock-up, the student will be able to describe the basic operation of a spring-loaded hanger in accordance with plant procedures and vendor technical manuals.
+Given a drawing or mock-up, the student will be able to describe the precautions associated with rigid pipe supports and spring-loaded hangers in accordance with plant procedures and vendor technical manuals.
+Given drawings, schematic, or a mock-up, the student will be able to summarize rigid pipe supports and spring loaded hangers' operation and maintenance in accordance with plant procedures and vendor technical manuals.
+Given drawings, P&ID, or a mock-up, the student will be able to summarize the penetration seal details in acccordance with plant procedures and vendor technical manuals.
+From memory, the student will be able to state the purpose of penetration seals in accordance with plant procedures and vendor technical manuals.
+From memory, the student will be able to identify the various types of penetration types in accordance with plant procedures and vendor technical manuals.
+From memory, the student wil be able to identify the various barrier types in accordance with plant procedures and vendor technical manuals.
+From memory, the student will be able to identify the various types of pentration seals in accordance with plant procedures and vendor technical manuals.
+From memory, the student will be able to identify the special considerations associated with penetration seal installation in accordance with plant procedures and vendor techical manuals.
+Given appropriate tooling and a sleeved pump shaft mock-up, determine the correct technique, and remove the shaft sleeve in accordance with station procedures, without damaging the pump shaft.
+The student will recall the methods for removal of a pump shaft sleeves in accordance with station procedures.
+
+The student will select the correct tooling, set up and remove a pump shaft sleeve using the blue-line method, in accordance with station procedures correctly.
+Familiarize Maintenance Mechanics with the operation of the Enerpac Synchronous Lift Controller Equipment.
+The student will be able to explain safety concerns with using the Enerpac Synchronous Lift Controller Equipment in accordance with VTM and station procedures.
+The student will be able to expalin the operation of the Enerpac Synchronous Lift Controller Equipment in accordance with VTM and station procedures.
+
+Given a mock-up and equipment, the student will be a ble to connect and disconnect the Enerpac Synchronous Lift Controller Equipment in accordance with VTM and station procedures.
+
+Given a mock-up and equipment, the student will evaluate the Enerpac Synchronous Lift Controller Equipment for proper operation during a material handling evolution in accordance with VTM and station procedures.
+
+Without aid from an outside source, the student will attach a mobile crane to a load and direct the operator to lift the load while anticipating and correcting for the load deflection from the mobile crane boom in accordance with industry best practices.
+From memory, the student shall recall the components that will induce boom deflection from a mobile crane accurately.
+Using a mobile crane and a given load, the student will demonstrate how to anticipate and correct for boom deflection from a mobile crane satisfactorily.

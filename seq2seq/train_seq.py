@@ -4,29 +4,39 @@ import torch
 import sqlite3
 import argparse
 from utils.datasets import SQLiteDatasetEncoded
-from utils.dataset_processing import encode_seq, collate_seq, score_seq, calc_reward, compute_loss
+from utils.dataset_processing import encode_seq, collate_seq, score_seq, compute_loss
 from torch.utils.data import DataLoader
 import os
+import logging
+import sys
 
 
 
-SEQ_MODEL_NAME = "google/t5-v1_1-base"
+SEQ_MODEL_NAME = "google/flan-t5-base"
 SCORE_MODEL_NAME = "bert-base-uncased"
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 BATCH_SIZE = 2
 
 
 
+# Configure logging
+file_handler = logging.FileHandler("training.log", mode="w")
+file_handler.setLevel(logging.INFO)  # Log everything to the file
+
+console_handler = logging.StreamHandler(sys.stdout)
+console_handler.setLevel(logging.WARNING)  # Show only warnings or higher in the console
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(message)s",
+    handlers=[file_handler, console_handler],
+)
+
+
+
 def init_example_table(cursor: sqlite3.Cursor):
   # get the imperfect examples from the objectives table
   cursor.execute("SELECT input_objective, new_objective FROM objectives")
-  rows = cursor.fetchall()
-  for row in rows:
-    input_obj, new_obj = row
-    cursor.execute("INSERT INTO seq_examples (input, target) VALUES (?, ?)", (input_obj, new_obj))
-
-  # get the imperfect examples from the augmented table
-  cursor.execute("SELECT input_objective, new_objective FROM augmented_objectives")
   rows = cursor.fetchall()
   for row in rows:
     input_obj, new_obj = row
@@ -48,7 +58,7 @@ def train_seq2seq(seq_model, score_model, seq_tokenizer, score_tokenizer, datalo
 
   # train seq_model for n number of epochs
   for epoch in range(n_epochs):
-    print(f"Epoch {epoch + 1}/{n_epochs}")
+    logging.warning(f"Epoch {epoch + 1}/{n_epochs}") 
 
     # in each epoch train and evaluate model
     for phase in ["train", "val"]:
@@ -69,17 +79,39 @@ def train_seq2seq(seq_model, score_model, seq_tokenizer, score_tokenizer, datalo
           # get sequence prediction from seq2seq model
           with torch.set_grad_enabled(phase == "train"):
             outputs = seq_model(batch["input_ids"], attention_mask=batch["attention_mask"], labels=batch["target_ids"])
-            logits = outputs.logits
+            std_loss = outputs.loss
 
             # get scores / rewards from score model
-            generated_ids = seq_model.generate(batch["input_ids"])
-            generated_texts = [seq_tokenizer.decode(g, skip_special_tokens=True) for g in generated_ids]
-            scores = [score_seq(score_model, score_tokenizer, text, DEVICE) for text in generated_texts]
-            rewards = [calc_reward(score) for score in scores]
-            rewards = torch.tensor(rewards, device=DEVICE)
+            generated_ids = seq_model.generate(
+              batch["input_ids"],
+              max_length=50,
+              num_beams=5,
+              repetition_penalty=2.0,
+              length_penalty=1.0,
+              early_stopping=True,
+              )
+            try:
+              generated_texts = [seq_tokenizer.decode(g, skip_special_tokens=True) for g in generated_ids]
+            except Exception as e:
+              logging.error(f"Error: {e}")
+              logging.info("Skipping this batch...")
+              del generated_ids
+              del batch
+              del outputs
+              del std_loss
+              torch.cuda.empty_cache()
+              pbar.update(1)
+              continue
+            reward_scores = [score_seq(score_model, score_tokenizer, text, DEVICE) for text in generated_texts]
+            reward_scores = torch.cat(reward_scores, dim=0).to(DEVICE).squeeze()
 
             # compute loss with criterion
-            loss = criterion(logits, batch["target_ids"], rewards)
+            loss = criterion(std_loss, reward_scores)
+
+          # print out debugging info if need to:
+          logging.info(f"Input: {seq_tokenizer.decode(batch['input_ids'][0].tolist(), skip_special_tokens=True)}")
+          logging.info(f"Target: {seq_tokenizer.decode(batch['target_ids'][0].tolist(), skip_special_tokens=True)}")
+          logging.info(f"Output: {generated_texts[0]}")
 
           # backpropogate only if training
           if phase == "train":
@@ -90,9 +122,11 @@ def train_seq2seq(seq_model, score_model, seq_tokenizer, score_tokenizer, datalo
           running_loss += loss.item() * batch["input_ids"].size(0)
           pbar.set_postfix(loss=loss.item())
           pbar.update(1)
+
+          
       
       epoch_loss = running_loss / len(dataloaders[phase].dataset)
-      print(f"{phase} loss: {epoch_loss:.4f}")
+      logging.info(f"{phase} loss: {epoch_loss:.4f}")
 
       # if validation check if best model and update patience
       if phase == "val":
@@ -104,12 +138,12 @@ def train_seq2seq(seq_model, score_model, seq_tokenizer, score_tokenizer, datalo
           epochs_no_improve += 1
 
         if epochs_no_improve == patience:
-          print("EARLY STOPPING IMPLEMENTED")
-          print("state dict saved at: ./models/seq2seq.pt")
+          logging.warning("EARLY STOPPING IMPLEMENTED")  # Show in console and file
+          logging.info("State dict saved at: ./models/seq2seq.pt")
           return
   
-  print("DONE TRAINING")
-  print("model dict saved at: ./models/seq2seq.pt")
+  logging.warning("DONE TRAINING")
+  logging.info("model dict saved at: ./models/seq2seq.pt")
   return
 
 
@@ -173,7 +207,7 @@ if __name__ == "__main__":
   # init other training hyper parameters
   dataloaders = {"train": train_dl, "val": test_dl}
   criterion = compute_loss
-  optimizer = torch.optim.AdamW(seq_model.parameters(), lr=5e-5)
+  optimizer = torch.optim.AdamW(seq_model.parameters(), lr=1e-4)
 
   # train model
-  train_seq2seq(seq_model, score_model, score_tokenizer, score_tokenizer, dataloaders, criterion, optimizer)
+  train_seq2seq(seq_model=seq_model, score_model=score_model, seq_tokenizer=seq_tokenizer, score_tokenizer=score_tokenizer, dataloaders=dataloaders, criterion=criterion, optimizer=optimizer)

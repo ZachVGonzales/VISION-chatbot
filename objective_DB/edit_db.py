@@ -56,14 +56,14 @@ if __name__ == "__main__":
 
   # edit a small portion of the rows
   for i, row in enumerate(rows):
-    if random.random() < 0.35:
+    if random.random() < 0.15:
       obj = json.loads(row[1])
       obj = translate(obj, model_forward0, tokenizer_forward0)
       obj = translate(obj, model_forward1, tokenizer_forward1)
       obj = translate(obj, model_back, tokenizer_back)
       cursor.execute("UPDATE objectives SET input_objective = ? WHERE id = ?", (json.dumps(obj), i+1))
 
-    if random.random() < 0.5:
+    if random.random() < 0.4:
       obj = json.loads(row[6])
       obj = translate(obj, model_forward0, tokenizer_forward0)
       obj = translate(obj, model_forward1, tokenizer_forward1)
@@ -76,7 +76,9 @@ if __name__ == "__main__":
   # add some null examples
   if os.path.exists(null_exs):
     with open(null_exs, 'r') as null_file:
-      for line in null_file:
+      for i, line in enumerate(null_file):
+        print(f"{i} nulls processed")
+
         # grab a random target
         cursor.execute("SELECT new_objective FROM objectives ORDER BY RANDOM() LIMIT 1")
         target = json.loads(cursor.fetchone()[0])

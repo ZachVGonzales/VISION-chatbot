@@ -10,6 +10,11 @@
 *.json
 *.OB
 *.pyc
+*.log
 
 # ignore these specific files
 objectives.txt
+a.txt
+b.txt
+c.txt
+d.txt

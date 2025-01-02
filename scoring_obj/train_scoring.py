@@ -36,7 +36,7 @@ def init_example_table(cursor: sqlite3.Cursor):
 
 
 
-def train_model(model, dataloaders: dict[str:DataLoader], optimizer, criterion, patience=3, n_epochs=20):
+def train_model(model, dataloaders: dict[str:DataLoader], optimizer, criterion, patience=5, n_epochs=20):
   best_loss = float('inf')
   epochs_no_improve = 0
 

@@ -4,7 +4,7 @@ import argparse
 
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-MODEL_ARCH = "google/t5-v1_1-base"
+MODEL_ARCH = "google/flan-t5-base"
 
 
 def init_params():

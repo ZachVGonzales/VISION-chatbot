@@ -3,19 +3,6 @@ from torch.nn.utils.rnn import pad_sequence
 from torch.nn import functional as F
 
 
-def calc_reward(scores: list[float], weights: list[float] = [1.0, 1.0, 1.0, 1.0]) -> float:
-  """
-  Calculate a reward from classification scores.
-
-  Args:
-    scores: list of scores for objective score categories (a, b, c, d)
-    weights: optional list of weights for categories
-  
-  Returns:
-    float: A reward value
-  """
-  return sum(w * s for w, s in zip(weights, scores))
-
 
 def encode_seq(example: dict, tokenizer, device: torch.device) -> dict:
   """
@@ -49,6 +36,8 @@ def encode_seq(example: dict, tokenizer, device: torch.device) -> dict:
     ).to(device)
 
   return {
+    "raw_input": input,
+    "raw_target": target,
     "input_ids": input_encodings.input_ids.squeeze(0).to(device),
     "attention_mask": input_encodings.attention_mask.squeeze(0).to(device),
     "target_ids": target_encodings.input_ids.squeeze(0).to(device)
@@ -56,6 +45,8 @@ def encode_seq(example: dict, tokenizer, device: torch.device) -> dict:
 
 
 def collate_seq(batch):
+  raw_inputs = [example["raw_input"] for example in batch]
+  raw_targets = [example["raw_target"] for example in batch]
   input_ids = [torch.tensor(example["input_ids"]).squeeze() if type(example["input_ids"]) != torch.Tensor else example["input_ids"] for example in batch]
   attention_mask = [torch.tensor(example["attention_mask"]).squeeze() if type(example["attention_mask"]) != torch.Tensor else example["attention_mask"] for example in batch]
   target_ids = [torch.tensor(example["target_ids"], dtype=torch.float) if type(example["target_ids"]) != torch.Tensor else example["target_ids"] for example in batch]
@@ -65,34 +56,28 @@ def collate_seq(batch):
   attention_mask = pad_sequence(attention_mask, batch_first=True, padding_value=0)
   target_ids = pad_sequence(target_ids, batch_first=True, padding_value=0)
 
-  return {"input_ids": input_ids, "attention_mask": attention_mask, "target_ids": target_ids}
+  return {"input_ids": input_ids, "attention_mask": attention_mask, "target_ids": target_ids, "raw_input": raw_inputs, "raw_target": raw_targets}
 
 
-def compute_loss(logits: torch.Tensor, labels: torch.Tensor, rewards: torch.Tensor):
+def compute_loss(std_loss: torch.Tensor, reward_scores: torch.Tensor):
     """
     Compute a custom loss combining language modeling loss and reward.
     
     Args:
-        logits: Model output logits.
-        labels: Ground truth token IDs.
+        std: Model output logits.
         rewards: Rewards for the generated sequences.
     
     Returns:
         torch.Tensor: Loss value.
     """
-    # Cross-entropy loss for language modeling
-    shift_logits = logits[..., :-1, :].contiguous()
-    shift_labels = labels[..., 1:].contiguous()
-    lm_loss = F.cross_entropy(shift_logits.view(-1, shift_logits.size(-1)), shift_labels.view(-1), reduction='none')
+    a_weight = 0.8
+    b_weight = 0.2
 
-    # Reshape to batch size
-    batch_size = labels.size(0)
-    lm_loss = lm_loss.view(batch_size, -1).mean(dim=1)
-    
-    # Reward-weighted loss
-    reward_loss = lm_loss * rewards
-    return reward_loss.mean()
+    ideal_scores = torch.ones_like(reward_scores)
+    reward_loss = F.mse_loss(reward_scores, ideal_scores)
 
+    total_loss = a_weight * std_loss + b_weight * reward_loss
+    return total_loss
 
 def score_seq(model, tokenizer, sequence, device):
   with torch.no_grad():
