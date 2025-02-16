@@ -1,5 +1,5 @@
 
-from transformers import BertTokenizer, BertForSequenceClassification # type: ignore
+from transformers import BertTokenizerFast, BertForSequenceClassification # type: ignore
 import torch
 import argparse
 
@@ -21,7 +21,8 @@ def score(model, tokenizer, objective: str):
     logits = model(**encoded_input).logits
     logits = torch.sigmoid(logits)
     logits = logits.squeeze(0)
-    print(logits)
+    logits = logits.tolist()
+    print(f"a: {logits[0]}, b: {logits[1]}, c: {logits[2]}, d: {logits[3]}")
   return None
 
 
@@ -35,7 +36,7 @@ if __name__ == "__main__":
   model.to(DEVICE)
   print("model loaded...")
 
-  tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
+  tokenizer = BertTokenizerFast.from_pretrained("bert-base-uncased")
 
   while True:
     objective = input("Enter Objective: ")

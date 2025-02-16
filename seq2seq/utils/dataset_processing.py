@@ -70,8 +70,8 @@ def compute_loss(std_loss: torch.Tensor, reward_scores: torch.Tensor):
     Returns:
         torch.Tensor: Loss value.
     """
-    a_weight = 0.8
-    b_weight = 0.2
+    a_weight = 0.5
+    b_weight = 0.5
 
     ideal_scores = torch.ones_like(reward_scores)
     reward_loss = F.mse_loss(reward_scores, ideal_scores)

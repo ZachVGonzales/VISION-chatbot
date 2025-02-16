@@ -9,13 +9,15 @@ from torch.utils.data import DataLoader
 import os
 import logging
 import sys
+import numpy as np
+from torch.utils.data import SubsetRandomSampler
 
 
 
 SEQ_MODEL_NAME = "google/flan-t5-base"
 SCORE_MODEL_NAME = "bert-base-uncased"
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-BATCH_SIZE = 2
+BATCH_SIZE = 4
 
 
 
@@ -51,14 +53,29 @@ def init_example_table(cursor: sqlite3.Cursor):
 
 
 
-def train_seq2seq(seq_model, score_model, seq_tokenizer, score_tokenizer, dataloaders, criterion, optimizer: torch.optim.Optimizer, patience: int = 3, n_epochs: int = 20):
+def train_seq2seq(seq_model, score_model, seq_tokenizer, score_tokenizer, dataloaders, criterion, optimizer: torch.optim.Optimizer, patience: int = 3, n_epochs: int = 20, train_fraction: float = 0.1):
   best_loss = float('inf')
   epochs_no_improve = 0
   score_model.eval() # not training the score model
 
+  train_size = len(dataloaders["train"].dataset)
+
   # train seq_model for n number of epochs
   for epoch in range(n_epochs):
     logging.warning(f"Epoch {epoch + 1}/{n_epochs}") 
+
+    # Shuffle indices for the training dataset
+    indices = np.arange(train_size)
+    np.random.shuffle(indices)
+
+    # Create a sampler for a fraction of the training data
+    subset_size = int(train_size * train_fraction)
+    subset_indices = indices[:subset_size]
+    train_sampler = SubsetRandomSampler(subset_indices)
+
+    # Create a new DataLoader with the sampler
+    train_dl = DataLoader(dataloaders["train"].dataset, batch_size=BATCH_SIZE, sampler=train_sampler, collate_fn=collate_seq)
+    dataloaders["train"] = train_dl
 
     # in each epoch train and evaluate model
     for phase in ["train", "val"]:
