@@ -18,3 +18,6 @@ a.txt
 b.txt
 c.txt
 d.txt
+
+# dont ignore these
+!/objective_DB/objectives_labeled.csv
