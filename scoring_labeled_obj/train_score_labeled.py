@@ -112,17 +112,17 @@ def train_model(model, dataloaders: dict[str:DataLoader], optimizer, criterion, 
         if epoch_loss < best_loss:
           best_loss = epoch_loss
           epochs_no_improve = 0
-          torch.save(model.state_dict(), "./models/scoring.pt")
+          torch.save(model.state_dict(), "./models/scoring_labeled.pt")
         else:
           epochs_no_improve += 1
 
         if epochs_no_improve == patience:
           print("EARLY STOPPING IMPLEMENTED")
-          print("state dict saved at: ./models/scoring.pt")
+          print("state dict saved at: ./models/scoring_labeled.pt")
           return
   
   print("DONE TRAINING")
-  print("model dict saved at: ./models/scoring.pt")
+  print("model dict saved at: ./models/scoring_labeled.pt")
   return
 
 
