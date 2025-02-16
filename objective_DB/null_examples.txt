@@ -20,187 +20,205 @@ and the system will be able to work with the system. Hopefully the system will b
 s s s s s s s s s
 student the student the student the student the student the the trainee the the the the the the the
 She wanted Chipotle but didn't want to pay for it.
-I've made a list of things I'd like to buy.
-The earth is like a ball with a big magnet in it.
-He was innocent of the crime.
-I'm so hungry.
-Your guess is as good as mine.
-She waited all day for her boss to call, but heard nothing.
-This should help you remember.
-The door slammed down on my hand, and I screamed like a little baby.
-I'm going to eat yogurt.
-Spiderman and Iron Man are two great men.
-There is a big supermarket in my neighborhood.
-The teacher tested us in English.
-The baby threw up all over her new white dress.
-This hall holds 2,000 people.
-She bought her shoes at a fake market in Shanghai, where they cost her only $5.
-What a big eater he is!
-I am looking for a job.
-Please just give me one more!
-Good heavens you’ve grown!
-I only eat glazed donuts.
-She doesn’t use a computer.
-New experiences are the best.
-The sea sparkled in the sunlight.
-I'm always on time.
-The baby was in a parka in the stroller.
-The jeweler mounted a big pearl in the brooch.
-Tom's a lot smarter than me.
-She wanted to watch the new James Bond movie, but she had to dial in to a work call instead.
-You have a beautiful home.
-You can’t give your phone number to every man who asks for it.
-He wore a red shirt with orange pants and green shoes.
-I'm on the list.
-The Earth is spherical.
-I am a housewife.
-I changed my mind.
-When she went to the pool, she didn't know what she'd find.
-What was the big announcement?
-Have you ever lived in a big city?
-Would you like a drink of my smoothie?
-You look just like your brother.
-All the bikes locked up outside the subway station are missing either a wheel or a seat.
-The play ran a big advertisement in the newspapers.
-His stomach was sore from the punch.
-To give you an example of another American voice, here is a young lady from Iowa who will teach you.
-She decided to go to K-Mart on the weekend because she was out of kimchi.
-This town isn't big enough for both of us.
-Every year Americans pay half a trillion in rent.
-he is easily offended.
-Pandas are fat.
-We go to the gym club together.
-Nostalgia isn't what it used to be.
-Two big powers have signed a secret agreement.
-There is a hefty ransom.
-If you don't shut up, I will turn this car around.
-She got her first iPad when she was two years old.
-What's your favorite toy to play with?
-I think they might have made a mistake in letting people tweet.
-Don’t worry, be happy!
-How often do you see George?
-I don’t hate you.
-Mark seems to think growing a mustache will make him look more mature.
-We're coming to get you.
-One constellation that most people know is the Big Dipper.
-I went to California with my mom for a weekend girl's trip.
-He gets angry easily.
-He made his way through the forest.
-They got married quickly after their engagement was finalized.
-They tore up the football field so they could develop the area for a new science wing.
-I've had plenty of relationships that seemed like they'd work on paper, but in practice, they were a bad idea.
-Communism was the biggest issue in the campaign.
-Cutting down on sugar will help you lose weight.
-All the names are listed in alphabetical order.
-I do not like aquariums.
-He is now looking for a bigger house to live in.
-You can never turn the clock back.
-Do we know each other?
-She reads like a child playing dress-up, an intern clothing herself out of her mother’s old work clothes.
-Look at the blackboard!
-Cows eat grass.
-He ran his horse up the hill.
-You were right.
-We should be able to resolve our differences.
-I see more than one star.
-There's a big restaurant right down the street.
-The wind was strong today in the city.
-You're simply the best.
-Maybe he was brokering a deal.
-She is very responsible.
-Paris is one of the biggest cities in the world.
-She decided to take the bus because it was supposed to be quicker, but then it ended up being twenty minutes late.
-According to Haidt’s Social Intuitionist Model of moral judgement, morality is both social and intuitionist.
-The big ugly tree destroys the beauty of the house.
-I also did not want to just close it down.
-Peter ate french fries.
-The sunset was breathtaking.
-What's your favorite ice cream flavor?
-He showed us how to snap the pencil.
-Keep your hands to yourself!
-Please, take pity on me!
-The roof leaks every time it rains.
-Since the moment I first put on the suit, it’s been the greatest gig of my life.
-She became more and more beautiful.
-She wanted to talk to her boss about her performance, because she thought she deserved a raise.
-I want to go there someday.
-Thomas added his own name to the list of people who wanted to take part in the dance.
-They lived in Germany until 1939.
-The red van was pulling a trailer with a beat-up lawn mower on it.
-Criticizing racists isn't a repression of free speech, it is free speech.
-Last night there was a big fire in the neighbourhood.
-I've got rough hands.
-She’s an excellent photographer.
-We took refuge behind a tree.
-He already has a lovely wife.
-These dancers are like family.
-She is eating a midnight snack.
-This car is in good condition.
-They are still edible.
-Her great-great-great grandfather was an outlaw in the Old West.
-Hurry up, slowpoke!
-A turkey is a little bigger than a chicken.
-Last time I went on vacation I rode a horse.
-He does everything without aim.
-He was wearing a vest.
-She whispered into the girl's ear.
-Diamonds are forever.
-I made some steak.
-I have opened the door.
-He is with another woman.
-He has more brothers than I do.
-The chocolate chip cookies smelled so good that I ate one without asking.
-She froze at the sight of the big spider.
-I am starting work soon.
-My glass of water broke when it fell off the table.
-My German vocabulary list is up to two thousand words now.
-I accidentally left my money in my pants pocket and it got ruined in the washer.
-He was dressed like a bear.
-There was a rock concert in 1970.
-She really wanted to go out to a diner and eat some greasy toast and eggs for breakfast.
-I used to have a goldfish.
-It's very big of you to admit you're wrong.
-I have fewer brothers than you.
-They have a big lunch and a small dinner.
-Her brother broke his arm playing hockey.
-This vase is made of glass.
-That mean boy will cut in line and stick his tongue out at you.
-The taxes are included in the price.
-To expand my knowledge on the topic, I read a book.
-That's always been our biggest problem.
-You ask somebody to tell you time.
-We should hang soon.
-It was their favorite store to shop at.
-Penguins live in Antarctica.
-In Japan there aren't any lakes bigger than Lake Biwa.
-I've made a list of foods that I can't eat.
-Rania is his own dearest enemy.
-That's it, go to time-out!
-Time's up!
-What is that?
-Where did you see him?
-She had a big, radiant smile.
-I stepped on a piece of gum today.
-They could be together.
-I gave the students a chance to say a few words too.
-These shoes are just way too large.
-I got the money back.
-Tom is already on top of it.
-that's not even how to kill me.
-The spirit is willing, but the flesh is weak.
-My pet turtle, Jim, got out of his cage and I could not find him anywhere.
-That’s a huge load off my mind.
-She dreamed an evil henchman was forcing her to count every single hair on her head.
-I have a question I need to ask everyone.
-The dog was so tired he fell asleep on the way to his doghouse.
-She hated the taste of butter so much that it made her gag.
-When she saw the sky, she knew it was going to rain.
-Did you see how big their house is?
-That's it, go to time-out!
-Ridiculous!
-Here's my big brother. Doesn't he look good?
-input_objective the input_objective the input_objective the input_objective the input_objective the
-shall shall shall shall the shall the the the
-willwill will will 
-the should the should the should the should
-is obliged to the is obliged to the the the
+The the the the the the the the the the the
+Something something something something something
+This is just a test sentence with no meaning
+The more you think about it, the less it makes sense
+Blue sky, red car, and an empty parking lot
+The cat sat on the mat, but then it left
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
+Ssssssssssssssssssssssssssssss
+What if the what if the what if the what if the what
+She wanted pizza but had no money for pizza
+The answer to life is 42, but what was the question?
+Random words are randomly placed in random order
+Back to the back to the back to the back
+The model of the model of the model of the model
+Where do we go when we don’t know where to go?
+Banana apple orange grape watermelon mango
+Well, this is awkward, but let's keep going
+The the the system of the system of the system
+Running in circles, chasing a tail
+This is a meaningless collection of words
+I can't believe it's not butter!
+The rain in Spain stays mainly in the plain
+Just another day in the life of a life of a life
+To the to the to the to the to the to the
+The quick brown fox jumps over the lazy dog
+Why do birds suddenly appear every time you are near?
+The world is a strange place when you think about it
+Blah blah blah blah blah blah blah blah blah
+The person is the person is the person is the person
+The students of the students of the students of the
+If at first you don’t succeed, try try again
+Does this even mean anything? Probably not
+There are words here, but they don't mean much
+The the the ssss of the the the
+More more more more more more more more
+This sentence is self-aware but also useless
+And so it begins, but where does it end?
+The system is the system that is the system
+What happens when you mix a word salad?
+This is a list of things that are not things
+A journey of a thousand miles begins with a single step
+Will it work? Probably. Will it matter? No
+The night is dark and full of meaningless words
+Something in the way, but nothing in the meaning
+If words had weight, this would be very heavy
+Welcome to my house, but it's not really a house
+This text exists only because it does
+Without a purpose, but with a lot of words
+And yet, we continue
+This is a string of letters that form words
+Why does this sentence exist?
+The sound of silence is louder than this text
+The words the words the words the words
+Nothing here but empty words
+System error: meaning not found
+The more I type, the less this makes sense
+Repeating repeating repeating repeating
+Sometimes, things just are
+Is this the real life, or is this just fantasy?
+What what what what what what what
+Words with no purpose fill the void
+A sentence that doesn’t go anywhere
+Thinking about thinking about thinking
+These words are just placeholders
+A banana, a spaceship, and a forgotten dream
+Why do we do the things we do when we do them?
+This is not a drill, but also not important
+Words that words that words that words
+This is only here because it needed to be
+The model of a model of a model of a model
+Lost in thought, found in nonsense
+Just a random thought that leads nowhere
+Do you ever wonder why words exist?
+This text is just filling space
+A fox, a dog, and a confusing sentence
+I have nothing to say, yet here I am
+The best is the best that is the best that is the
+The way of the way of the way of the way
+This is the sentence that never ends
+Meaning is lost in the words of the words
+Sometimes a word is just a word
+The system that is the system that is the system
+Why is this even here?
+An endless loop of endless loops
+What are we doing here?
+The best is the best of the best of the best
+Ssssssssssssssssssssssss
+I wonder if anyone is still reading
+A text without a point is just a text
+The first of the first of the first of the first
+This has no context, but that’s okay
+A dog, a cat, and a word that doesn’t fit
+The way is the way that is the way
+This is not the text you are looking for
+A meaningless phrase in a meaningless list
+What happens when words lose their meaning?
+A collection of letters pretending to be important
+And yet, we continue to type
+The the the the the the the the the
+Well, I think that’s enough of that
+The the the the the the the the the
+Something something something something something
+The model model model of the model model
+The system of the system of the system of the
+Words words words words words words
+Ssssssssssssssssssssssss
+Lorem ipsum dolor sit amet consectetur adipiscing
+The rain in Spain stays mainly in the plain
+Random random random random random
+And so and so and so and so and so
+Hey, what's up?
+I have no idea what you mean
+This is just a test sentence
+Why does this even exist?
+Okay, but have you tried turning it off and on?
+The weather is nice today
+Did you hear about the latest sports news?
+I was thinking about getting some ice cream
+What are you doing later?
+Maybe we should try something different
+Apple, banana, orange, grape, watermelon
+Monday, Tuesday, Wednesday, Thursday, Friday
+Dog, cat, rabbit, elephant, giraffe
+Blue, red, green, yellow, purple
+Chair, table, sofa, bed, lamp
+Car, truck, bus, motorcycle, bicycle
+North, south, east, west
+Happy, sad, angry, confused, excited
+One, two, three, four, five
+Chocolate, vanilla, strawberry, mint, caramel
+The first step is the first step to the first step
+Given given given given given given
+With the the the system of the system
+A model of the model of the model of the model
+More more more more more more more
+If you don’t know, you don’t know
+The person is the person is the person is the
+The best best best best is the best best best
+Something something something something something
+The more the more the more the more the mor
+This sentence is about this sentence
+A phrase that refers to itself as a phrase
+The system describes the system in the system
+If this were a sentence, it would be one
+This list contains items in a list of items
+A model that models the modeling of a model
+Words that say words that describe words
+I think therefore I think that I think
+Given the given given given, the given is given
+This is not an objective, but it is text
+The giraffe wore a top hat and danced
+Purple elephants fly at midnight in December
+If the sky were green, would fish walk?
+The toaster rebellion has begun, stay alert
+Banana socks make the best time machines
+A spaceship landed in my backyard yesterday
+The cheese is watching us from the fridge
+If books could talk, they’d ask for vacations
+My laptop is secretly writing a novel
+Why do doors open but not answer questions?
+sjsjjsjjkjksjksjsjsjsjssjjk
+=== ERROR === SYSTEM NOT FOUND ===
+Why is this sentence only half fin
+0101010101010101010101
+&@#%!@#%&@#%@
+The quick brown fox jumps over the lazy
+SYSTEM
+Copy
+Edit
+Lorem ipsum ???????? $$$$ ####
+I I I I I I I I I I
+Th3 qu1ck br0wn f0x jumps 0ver
+The way the way the way the way the way
+And then and then and then and then and then
+The first the first the first the first
+More words more words more words more
+This is not this is not this is not
+Maybe maybe maybe maybe maybe maybe
+A test a test a test a test a test
+The system is the system is the system
+Without without without without without
+Because because because because because
+Let it be, let it be, let it be, let it be
+Hakuna Matata, what a wonderful phrase
+To be or not to be, that is the question
+This is the song that never ends
+Just keep swimming, just keep swimming
+May the Force be with you
+I have a dream, but this isn’t it
+Winter is coming, but what does that mean?
+You talking to me?
+I’ll be back
+If only I had a chance to
+This could be a sentence if
+But what if we
+The meaning of this is
+Before we go, let’s
+In a way, you could say that
+The system needs to
+I was thinking about
+Given the situation, we should
+With enough time, we could
