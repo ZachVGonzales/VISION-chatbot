@@ -15,14 +15,19 @@ def init_params():
   return parser.parse_args()
 
 
-def score(model, tokenizer, objective: str):
+def score(model: BERTMultiTaskClassifier, tokenizer: BertTokenizerFast, objective: str):
   encoded_input = tokenizer(objective, return_tensors="pt")
   encoded_input.to(DEVICE)
+  input_ids = encoded_input.input_ids
+  attention_mask = encoded_input.attention_mask
   with torch.no_grad():
-    logits = model(**encoded_input)
+    logits = model.forward(input_ids=input_ids, attention_mask=attention_mask)
+
+    print(logits)
+
     abcd_pred = torch.sigmoid(logits["abcd"]).squeeze(0).tolist()
     type_pred = torch.sigmoid(logits["types"]).squeeze(0).tolist()
-    bloom_pred = torch.softmax(logits["blooms"]).squeeze(0).tolist()
+    bloom_pred = torch.softmax(logits["blooms"], dim=-1).squeeze(0).tolist()
     print(f"abcd: {abcd_pred}\ntype: {type_pred}\nbloom: {bloom_pred}")
   return None
 

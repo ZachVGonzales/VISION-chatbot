@@ -75,7 +75,7 @@ class SQLiteDatasetEncoded(Dataset):
     try:
       for column_name in column_names:
         if self.load_columns and column_name in self.load_columns:
-            new_example[column_name] = json.loads(example[cname2idx[column_name]])
+          new_example[column_name] = json.loads(example[cname2idx[column_name]])
         else:
           new_example[column_name] = example[cname2idx[column_name]]
     except Exception as e:

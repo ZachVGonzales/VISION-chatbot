@@ -80,7 +80,7 @@ def train_model(model: BERTMultiTaskClassifier, dataloaders: dict[str:DataLoader
           with torch.set_grad_enabled(phase == "train"):
             logits = model.forward(batch["input_ids"], attention_mask=batch["attention_mask"])
             labels = batch["labels"]
-            labels = {"abcd": labels[:, :4], "types": labels[:, 4:6], "blooms": labels[:, 6:10]}
+            labels = {"abcd": labels[:, :4], "types": labels[:, 4:6], "blooms": labels[:, 6:12]}
             loss = model.compute_loss(logits, labels)
 
             #preds.extend(torch.sigmoid(logits).detach().cpu().numpy())
@@ -88,6 +88,11 @@ def train_model(model: BERTMultiTaskClassifier, dataloaders: dict[str:DataLoader
 
             if phase == "train":
               loss.backward()
+
+              #for name, param in model.named_parameters():
+              #  if param.grad is not None:
+              #      print(f"{name} grad norm: {torch.norm(param.grad).item()}")
+
               optimizer.step()
             
           running_loss += loss.item() * batch["input_ids"].size(0)
@@ -103,17 +108,17 @@ def train_model(model: BERTMultiTaskClassifier, dataloaders: dict[str:DataLoader
         if epoch_loss < best_loss:
           best_loss = epoch_loss
           epochs_no_improve = 0
-          torch.save(model.state_dict(), "./models/scoring.pt")
+          model.save_model("./models/combo_scoring/")
         else:
           epochs_no_improve += 1
 
         if epochs_no_improve == patience:
           print("EARLY STOPPING IMPLEMENTED")
-          print("state dict saved at: ./models/scoring.pt")
+          print("state dict saved at: ./models/combo_scoring/")
           return
   
   print("DONE TRAINING")
-  print("model dict saved at: ./models/scoring.pt")
+  print("model dict saved at: ./models/combo_scoring/")
   return
 
 
@@ -187,8 +192,10 @@ if __name__ == "__main__":
   # init the model
   classes = {"abcd": (False, ["audience", "behavior", "condition", "degree"]), "types": (False, ["type1", "type2"]), "blooms": (True, ["BT1", "BT2", "BT3", "BT4", "BT5", "BT6"])}
   if os.path.exists(model_path):
-    state_dict = torch.load(model_path)
-  model = BERTMultiTaskClassifier(classes=classes, device=DEVICE)
+    state_dict = torch.load(model_path, weights_only=True)
+    model = BERTMultiTaskClassifier(classes=classes, device=DEVICE, state_dict=state_dict)
+  else:
+    model = BERTMultiTaskClassifier(classes=classes, device=DEVICE)
 
   # init other necessary training parameters
   criterion = custom_criterion

@@ -1,6 +1,10 @@
 import torch
 import torch.nn as nn
+import torch.nn.functional as F
 from transformers import BertModel
+
+import os
+import json
 
 
 class BERTMultiTaskClassifier(nn.Module):
@@ -16,7 +20,7 @@ class BERTMultiTaskClassifier(nn.Module):
     self.device = device
     self.bert_layer = BertModel.from_pretrained("bert-base-uncased").to(device)
     if state_dict:
-      self.bert_layer.load_state_dict(state_dict)
+      self.load_state_dict(state_dict)
     self.hidden_size = self.bert_layer.config.hidden_size
     self.classes = classes
     self.classifiers = {}
@@ -47,7 +51,10 @@ class BERTMultiTaskClassifier(nn.Module):
     mask_types[mask_condition_types, :] = 0  
     mask_blooms[mask_condition_blooms, :] = 0
 
-    exclusive_loss_fn = nn.CrossEntropyLoss()
+    #print(f"mask_types: {mask_types}")
+    #print(f"mask_blooms: {mask_blooms}")
+
+    exclusive_loss_fn = F.cross_entropy
     independent_loss_fn = nn.BCEWithLogitsLoss()
     total_loss = torch.tensor(0.0, device=self.device)
 
@@ -57,12 +64,43 @@ class BERTMultiTaskClassifier(nn.Module):
       else:
         loss = independent_loss_fn(logits[k], labels[k])
       
+      #print(f"{k}: \n\tloss: {loss}\n\tlogits: {logits[k]}\n\tlabels: {labels[k]}")
+
       if k == "blooms":
-        loss = (mask_blooms * loss).sum()
+        loss = mask_blooms * loss
+        loss = loss.sum() / mask_blooms.sum()
       elif k == "type":
-        loss = (mask_types * loss).sum()
+        loss = mask_types * loss
+        loss = loss.sum() / mask_types.sum()
+      elif k == "abcd":
+        loss = mask_abcd * loss
+        loss = loss.sum() / mask_abcd.sum()
       
       total_loss += loss 
     
     total_loss = total_loss / (mask_types.sum() + mask_blooms.sum() + mask_abcd.sum())
     return total_loss
+  
+  def save_model(self, save_directory):
+    os.makedirs(save_directory, exist_ok=True)
+
+    # save model state dictionary
+    torch.save(self.state_dict(), os.path.join(save_directory, "state_dict.pt"))
+
+    # save model configuration (class labels and other details)
+    config = {"classes": self.classes}
+    with open(os.path.join(save_directory, "config.json"), "w") as f:
+      json.dump(config, f)
+
+    #print(f"Model saved in {save_directory}")
+
+  @classmethod
+  def load_model(cls, load_directory, device):
+    with open(os.path.join(load_directory, "config.json"), "r") as f:
+      config = json.load(f)
+    
+    state_dict = torch.load(os.path.join(load_directory, "state_dict.pt"), weights_only=True)
+    model = cls(classes=config["classes"], device=device, state_dict=state_dict)
+
+    #print("Model loaded successfully.")
+    return model
